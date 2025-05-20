@@ -15,3 +15,7 @@ More information will be released on Classes in time, including criteria and opp
 * Resources belong to **Builders**.
 * Entrepreneurs are the **Degens**.
 * Commoners of the Realm are **OG**.
+
+
+
+<figure><img src="../.gitbook/assets/classes.png" alt=""><figcaption></figcaption></figure>
