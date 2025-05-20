@@ -1,0 +1,17 @@
+name: Sync GitBook → Supabase
+on:
+  push: { branches: ["main"] }
+  schedule: [{ cron: "0 4 * * *" }]    # daily at 04:00 UTC
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.11" }
+      - run: pip install supabase openai pgvector psycopg2-binary tiktoken
+      - run: python ingest.py
+        env:
+          SUPA_URL: ${{ secrets.SUPA_URL }}
+          SUPA_SERVICE_KEY: ${{ secrets.SUPA_SERVICE_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
