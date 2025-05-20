@@ -29,7 +29,7 @@ OG Reserve emits 274m (274,000,000) [$OGC](../constructs/tokens/usdogc-og-coin.m
 OGs can earn [$OGC](../constructs/tokens/usdogc-og-coin.md) each epoch by visiting OG Reserve:
 
 {% hint style="success" %}
-[https://ogreserve.gold/](https://ogreserve.gold/)
+[https://reserve.ogrealm.xyz](https://reserve.ogrealm.xyz/)
 {% endhint %}
 
 To participate in OG Reserve, OGs must lock [$OGG](../constructs/tokens/usdogg-og-gold.md) in any amount in OG Reserve for 100 epochs. There are no locking fees.
