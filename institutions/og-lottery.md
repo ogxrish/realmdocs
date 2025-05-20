@@ -24,6 +24,8 @@ While notable differences exist, OG Lottery functions similarly to [OG Mine](og-
 
 OG Lottery emits a constantly increasing amount of [$OGF](../constructs/tokens/usdogf-og-fool.md) each epoch, beginning at \[redacted] $OGF per Epoch and adding \[redacted] $OGF each subsequent epoch. Since the amount of $OGF emitted increases at a constant rate, more of the supply continues to circulate as time goes on. Based on this emissions schedule, OG Lottery will continue to emit $OGF for approximately \[redacted] epochs (or \[redacted] years), considering the total supply of $OGC initially sent to OG Lottery for distribution.
 
+<figure><img src="../.gitbook/assets/lottery.png" alt=""><figcaption></figcaption></figure>
+
 ### Bidding $OGF
 
 OGs can bid for $OGF each epoch by visiting OG Lottery:
