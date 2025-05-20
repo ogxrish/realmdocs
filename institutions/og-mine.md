@@ -33,7 +33,7 @@ However, there is no end date for OG Mine's emissions as the balance can never r
 OGs can mine [$OGG](../constructs/tokens/usdogg-og-gold.md) each epoch by visiting OG Mine:
 
 {% hint style="success" %}
-[https://ogmine.gold](https://www.ogmine.gold)
+[https://mine.ogrealm.xyz](https://mine.ogrealm.xyz/)
 {% endhint %}
 
 ### Mining Fees
