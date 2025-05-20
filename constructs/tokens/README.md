@@ -24,6 +24,14 @@ Max supply varies greatly between the the 6 Realm tokens:
 
 <figure><img src="../../.gitbook/assets/image-1.webp" alt=""><figcaption></figcaption></figure>
 
+## Token Circulation
+
+All 6 tokens are released into circulation on their own schedules in coordination with their relevent Institutions. This results in varying circulating supplies of each token relative to one another at any point in time.&#x20;
+
+A deep understanding of the Token and Institution relationships is advised.
+
+<figure><img src="../../.gitbook/assets/all.png" alt=""><figcaption></figcaption></figure>
+
 ## Technical Information
 
 To ensure safety for all players, the Solana mint addresses for each of the 6 Realm tokens are provided below.
