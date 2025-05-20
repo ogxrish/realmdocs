@@ -22,6 +22,8 @@ Mirroring many basic elements of [OG Mine](og-mine.md), OG Reserve functions sim
 
 OG Reserve emits 274m (274,000,000) [$OGC](../constructs/tokens/usdogc-og-coin.md) each Epoch, thus the rate of $OGC emitted remains constant. There is no end date for OG Reserve's emissions; though theoretically, the end would calculate to 10,000 epochs (or 7 years), considering the total supply of $OGC initially sent to OG Reserve for distribution with no replenishment.
 
+<figure><img src="../.gitbook/assets/reserve.png" alt=""><figcaption></figcaption></figure>
+
 ### Reserving $OGG
 
 OGs can earn [$OGC](../constructs/tokens/usdogc-og-coin.md) each epoch by visiting OG Reserve:
