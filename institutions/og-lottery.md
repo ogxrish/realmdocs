@@ -14,7 +14,7 @@ OG Lottery was created to be accessible to all OGs.
 
 ## Initial Funding
 
-[OG Bank](og-bank.md) securely transferred all of the remaining supply of [$OGF](../constructs/tokens/usdogf-og-fool.md) (90%) to OG Lottery for distribution within the Realm.
+[OG Bank](og-bank.md) securely transferred nearly all of the remaining supply of [$OGF](../constructs/tokens/usdogf-og-fool.md) to OG Lottery (800T $OGF) for distribution within the Realm, except for 10% of $OGF, which OG Bank retained.
 
 ## Lottery Operations
 
