@@ -26,6 +26,8 @@ OG Mine emits 1% of its remaining [$OGG](../constructs/tokens/usdogg-og-gold.md)
 
 However, there is no end date for OG Mine's emissions as the balance can never reach 0 $OGG.
 
+<figure><img src="../.gitbook/assets/mine.png" alt=""><figcaption></figcaption></figure>
+
 ### Mining $OGG
 
 OGs can mine [$OGG](../constructs/tokens/usdogg-og-gold.md) each epoch by visiting OG Mine:
