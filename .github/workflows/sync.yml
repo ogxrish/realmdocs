@@ -5,15 +5,13 @@ on:
 jobs:
   ingest:
     runs-on: ubuntu-latest
+    env:                             # 👈 applies to every step
+      SUPA_URL:          ${{ secrets.SUPA_URL }}
+      SUPA_SERVICE_KEY:  ${{ secrets.SUPA_SERVICE_KEY }}
+      OPENAI_API_KEY:    ${{ secrets.OPENAI_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: pip install supabase openai pgvector psycopg2-binary tiktoken
-      - run: ls -R
       - run: python ingest.py
-      - run: python .github/scripts/ingest.py
-        env:
-          SUPA_URL: ${{ secrets.SUPA_URL }}
-          SUPA_SERVICE_KEY: ${{ secrets.SUPA_SERVICE_KEY }}
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
