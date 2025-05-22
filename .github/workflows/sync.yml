@@ -10,7 +10,8 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.11" }
       - run: pip install supabase openai pgvector psycopg2-binary tiktoken
-      - run: python ingest.py
+      # - run: python ingest.py
+      - run: python .github/workflows/ingest.py
         env:
           SUPA_URL: ${{ secrets.SUPA_URL }}
           SUPA_SERVICE_KEY: ${{ secrets.SUPA_SERVICE_KEY }}
