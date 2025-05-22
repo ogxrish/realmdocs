@@ -6,7 +6,10 @@ openai.api_key = os.getenv("OPENAI_API_KEY")
 MODEL = "text-embedding-3-small"
 
 supabase = create_client(os.environ["SUPA_URL"], os.environ["SUPA_SERVICE_KEY"])
-pg = psycopg2.connect(supabase._supabase_postgrest_client.client.base_url+"?sslmode=require")
+# pg = psycopg2.connect(supabase._supabase_postgrest_client.client.base_url+"?sslmode=require")
+pg = psycopg2.connect(
+    supabase._supabase_postgrest_client.client.base_url + "?sslmode=require"
+)
 register_vector(pg); cur = pg.cursor()
 
 tokenizer = tiktoken.get_encoding("cl100k_base")
