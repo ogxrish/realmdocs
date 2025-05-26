@@ -3,7 +3,7 @@
 Re-ingest GitBook Markdown → Supabase `gitbook_chunks`
 * Embeds with OpenAI (text-embedding-3-small by default)
 * Stores deep link in `url` column + metadata JSONB
-* Overwrites existing rows so old chunks get their URL filled in
+* Overwrites existing rows so old chunks get their URL filled
 """
 
 import os, glob, hashlib, re, unicodedata, tiktoken
