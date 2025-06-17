@@ -31,7 +31,7 @@ OG Lottery emits a constantly increasing amount of [$OGF](../constructs/tokens/u
 OGs can bid for $OGF each epoch by visiting OG Lottery:
 
 {% hint style="success" %}
-\[redacted]
+[https://lottery.ogrealm.xyz](https://lottery.ogrealm.xyz/) \[coming soon]
 {% endhint %}
 
 ### Lottery Fees
@@ -40,7 +40,7 @@ OGs can bid any number of times each epoch by paying the Lottery fee, paid in ei
 
 ### Lottery Winners
 
-The Final Bid is considered the winner of each Lottery Pool. Unlike both [OG Mine](og-mine.md) and[ OG Reserve](og-reserve.md), winners of OG Lottery are not necessarily determined each epoch. Instead, the Final Bid is determined when an entire epoch passes with no subsequent bid. The OG with the Final Bid receives \[redacted] % of the accumulated [$OGF](../constructs/tokens/usdogf-og-fool.md) in the Lottery Pool, while all prior bids share \[redacted] % of the Lottery Pool, proportional to \[redacted].
+The Final Bid is considered the winner of each Lottery Pool. Unlike both [OG Mine](og-mine.md) and[ OG Reserve](og-reserve.md), winners of OG Lottery are not necessarily determined each epoch. Instead, the Final Bid is determined when an entire epoch passes with no subsequent bid. The OG with the Final Bid receives 50% of the accumulated [$OGF](../constructs/tokens/usdogf-og-fool.md) in the Lottery Pool, while all prior bids share 50% of the Lottery Pool, proportional to each player's number of bids.&#x20;
 
 ### Difficulty Curve
 
@@ -48,7 +48,7 @@ Lottery fees (difficulty) increase with each new bidder. Unlike both [OG Mine](o
 
 ### ~~Replenishing the Lottery~~
 
-In stark contrast to both [OG Mine](og-mine.md) and [OG Reserve](og-reserve.md), there is no [Repurchase Program](../constructs/repurchase-program.md) for OG Lottery.&#x20;
+The Repurchase Program utilizes all collected reserve fees to buy [$OGF](../constructs/tokens/usdogf-og-fool.md) back from the open market. However, in stark contrast to both [OG Mine](og-mine.md) and [OG Reserve](og-reserve.md), $OGF repurchased is burned. This reduces the supply of $OGF and does NOT function to replenish the OG Lottery.
 
 #### Lottery Fees
 
@@ -60,4 +60,6 @@ Additionally, [$OGF](../constructs/tokens/usdogf-og-fool.md) won but not claimed
 
 ## Unlocking the Degen
 
-[$OGF](../constructs/tokens/usdogf-og-fool.md) represents the primal degeneracy of the Realm, with OG Lottery being the institution responsible for its distribution. OGs have the ability to attribute value to $OGF in order to tap into the ecosystem of Luck and Fate that awaits them.
+[$OGF](../constructs/tokens/usdogf-og-fool.md) represents the primal degeneracy of the Realm, with OG Lottery being the institution responsible for its distribution. OG Lottery rewards those for being both early (low difficulty, guaranteed prize) and late (winner takes the lion's share).
+
+Through OG Lottery, OGs have the ability to attribute value to $OGF in order to tap into the ecosystem of Luck and Fate that awaits them.
