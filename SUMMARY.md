@@ -5,14 +5,14 @@
 * [💡 Overview](README.md)
 * [📋 How to Play](welcome/how-to-play.md)
 
+***
+
+* [⏳ Timeline](timeline.md)
+
 ## Power
 
 * [💎 Realm of OGs](power/realm-of-ogs.md)
 * [🔱 Mad OG](power/mad-og.md)
-
-***
-
-* [⏳ Timeline](timeline.md)
 
 ## Institutions
 
