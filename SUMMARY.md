@@ -36,6 +36,7 @@
   * [Eternal Pools](constructs/liquidity-pools/eternal-pools.md)
   * [Sanctioned Pools](constructs/liquidity-pools/sanctioned-pools.md)
 * [⚙️ Repurchase Program](constructs/repurchase-program.md)
+* [⚙️ Knowledge Base](constructs/repurchase-program-1.md)
 
 ## Society
 
