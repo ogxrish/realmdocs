@@ -12,7 +12,7 @@ Oggz is an on-chain program deployed on Solana mainnet by the [Institutions](bro
 
 Oggz serves as the repurchase program that regularly and automatically:
 
-1. Takes possession of SOL and [$OGC](tokens/usdogc-og-coin.md) collected from [Mining fees](../institutions/og-mine.md#mining-fees), [Reserve fees](../institutions/og-reserve.md#reserve-fees), and Lottery fees generated each epoch by [OG Mine](../institutions/og-mine.md), [OG Reserve](../institutions/og-reserve.md), and [OG Lottery](../institutions/og-lottery.md), respectively.
+1. Takes possession of SOL and [$OGC](tokens/usdogc-og-coin.md) collected from [Mining fees](../institutions/og-mine.md#mining-fees), [Reserve fees](../institutions/og-reserve.md#reserve-fees), and [Lottery fees](../institutions/og-lottery.md#lottery-fees) generated each epoch by [OG Mine](../institutions/og-mine.md), [OG Reserve](../institutions/og-reserve.md), and [OG Lottery](../institutions/og-lottery.md), respectively.
 2. Uses collected fees to repurchase [$OGG](tokens/usdogg-og-gold.md), [$OGC](tokens/usdogc-og-coin.md), and [$OGF](tokens/usdogf-og-fool.md) from the open market (via Jupiter routing).
 3. Deposits repurchased $OGG and $OGC into OG Mine and OG Reserve, respectively.
 4. Burns repurchased $OGF.
