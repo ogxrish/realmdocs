@@ -35,7 +35,7 @@
   * [Realm Pools](constructs/liquidity-pools/realm-pools.md)
   * [Eternal Pools](constructs/liquidity-pools/eternal-pools.md)
   * [Sanctioned Pools](constructs/liquidity-pools/sanctioned-pools.md)
-* [⚙️ Repurchase Programs](constructs/repurchase-program.md)
+* [⚙️ Repurchase Programs](constructs/repurchase-programs.md)
 * [🧠 Knowledge Base](constructs/knowledge-base.md)
 
 ## Society

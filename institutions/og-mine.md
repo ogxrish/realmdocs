@@ -48,7 +48,7 @@ Mining fees (difficulty) increase with each new miner during an epoch. Mining di
 
 #### Mining Fees
 
-All collected mining fees are utilized by the [Repurchase Program](../constructs/repurchase-program.md) to buy [$OGG](../constructs/tokens/usdogg-og-gold.md) back from the open market. Repurchased $OGG is deposited back into OG Mine, ultimately functioning to replenish OG Mine.
+All collected mining fees are utilized by the [Repurchase Program](../constructs/repurchase-programs.md) to buy [$OGG](../constructs/tokens/usdogg-og-gold.md) back from the open market. Repurchased $OGG is deposited back into OG Mine, ultimately functioning to replenish OG Mine.
 
 #### Unclaimed $OGG
 

@@ -19,7 +19,7 @@ There are 3 separate Repurchase Programs that regularly and automatically:
 
 ## Program Comparison
 
-<table><thead><tr><th width="121">Institution</th><th width="126">Source</th><th width="98">Repurchases</th><th>Final Action</th></tr></thead><tbody><tr><td>OG Mine</td><td>Mining fees</td><td>$OGG</td><td>Replenishes OG Mine with $OGG</td></tr><tr><td>OG Reserve</td><td>Reserve fees</td><td>$OGC</td><td>Replenishes OG Reserve with $OGC</td></tr><tr><td>OG Lottery</td><td>Lottery fees</td><td>$OGF</td><td>Burns the $OGF</td></tr></tbody></table>
+<table><thead><tr><th width="121">Institution</th><th width="126">Source</th><th width="130">Repurchases</th><th>Final Action</th></tr></thead><tbody><tr><td>OG Mine</td><td>Mining fees</td><td>$OGG</td><td>Replenishes OG Mine with $OGG</td></tr><tr><td>OG Reserve</td><td>Reserve fees</td><td>$OGC</td><td>Replenishes OG Reserve with $OGC</td></tr><tr><td>OG Lottery</td><td>Lottery fees</td><td>$OGF</td><td>Burns the $OGF</td></tr></tbody></table>
 
 ## Impact on the Realm
 

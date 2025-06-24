@@ -63,7 +63,7 @@ During an epoch, reserve fees increase with each new reserver (reserve difficult
 
 #### Reserve Fees
 
-The [Repurchase Program](../constructs/repurchase-program.md) utilizes all collected reserve fees to buy [$OGC](../constructs/tokens/usdogc-og-coin.md) back from the open market and deposit it back into OG Reserve, ultimately functioning to replenish the OG Reserve.
+The [Repurchase Program](../constructs/repurchase-programs.md) utilizes all collected reserve fees to buy [$OGC](../constructs/tokens/usdogc-og-coin.md) back from the open market and deposit it back into OG Reserve, ultimately functioning to replenish the OG Reserve.
 
 #### Unclaimed $OGC
 

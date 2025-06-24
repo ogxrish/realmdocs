@@ -16,7 +16,7 @@ description: An extensive order of the Realm's milestones
 * [Liquidity Pools](constructs/liquidity-pools/) are created
 * [OG Mine](institutions/og-mine.md) is established
 * [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
-* [Repurchase Program](constructs/repurchase-program.md) is launched
+* [Repurchase Program](constructs/repurchase-programs.md) is launched
 * [OG Reserve](institutions/og-reserve.md) is established
 * [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
