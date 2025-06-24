@@ -19,7 +19,7 @@ There are 3 separate Repurchase Programs that regularly and automatically:
 
 ## Program Comparison
 
-<table><thead><tr><th width="121">Institution</th><th width="78">Token</th><th width="126">Source</th><th width="95" data-type="checkbox">Repurchase</th><th width="83" data-type="checkbox">Replenish</th><th data-type="checkbox">Burned</th><th></th></tr></thead><tbody><tr><td>OG Mine</td><td>$OGG</td><td>Mining fees</td><td>true</td><td>true</td><td>false</td><td>oggzGFTgRM61YmhEbgWeivVmQx8bSAdBvsPGqN3ZfxN</td></tr><tr><td>OG Reserve</td><td>$OGC</td><td>Reserve fees</td><td>true</td><td>true</td><td>false</td><td><p></p><p>9amqn5HuK6554dnAEQWJMMGTyrQBVWzKzt9vdVGTBwKo</p></td></tr><tr><td>OG Lottery</td><td>$OGF</td><td>Lottery fees</td><td>true</td><td>false</td><td>true</td><td>(coming soon)</td></tr></tbody></table>
+<table><thead><tr><th width="121">Institution</th><th width="126">Source</th><th width="98">Repurchases</th><th>Final Action</th></tr></thead><tbody><tr><td>OG Mine</td><td>Mining fees</td><td>$OGG</td><td>Replenishes OG Mine with $OGG</td></tr><tr><td>OG Reserve</td><td>Reserve fees</td><td>$OGC</td><td>Replenishes OG Reserve with $OGC</td></tr><tr><td>OG Lottery</td><td>Lottery fees</td><td>$OGF</td><td>Burns the $OGF</td></tr></tbody></table>
 
 ## Impact on the Realm
 
@@ -33,8 +33,6 @@ Since repurchases of $OGG, $OGC, and $OGF are routed through Jupiter, the most e
 
 ## Technical Information
 
-To follow on-chain activity, the Solana public address for Oggz is provided:
+To follow on-chain activity, the Solana public address for the Repurchase Programs are provided:
 
-{% hint style="info" %}
-oggzGFTgRM61YmhEbgWeivVmQx8bSAdBvsPGqN3ZfxN
-{% endhint %}
+<table><thead><tr><th width="112">Institution</th><th width="493">Address</th><th>Solscan</th></tr></thead><tbody><tr><td>OG Mine</td><td>oggzGFTgRM61YmhEbgWeivVmQx8bSAdBvsPGqN3ZfxN</td><td><a href="https://solscan.io/account/oggzGFTgRM61YmhEbgWeivVmQx8bSAdBvsPGqN3ZfxN">Link</a></td></tr><tr><td>OG Reserve</td><td>9amqn5HuK6554dnAEQWJMMGTyrQBVWzKzt9vdVGTBwKo</td><td><a href="https://solscan.io/account/9amqn5HuK6554dnAEQWJMMGTyrQBVWzKzt9vdVGTBwKo">Link</a></td></tr><tr><td>OG Lottery</td><td>(coming soon)</td><td></td></tr></tbody></table>
