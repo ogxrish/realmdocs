@@ -19,6 +19,8 @@ There are 3 separate Repurchase Programs that regularly and automatically:
 
 ## Program Comparison
 
+<table><thead><tr><th width="121">Institution</th><th width="78">Token</th><th width="126">Source</th><th width="95" data-type="checkbox">Repurchase</th><th width="83" data-type="checkbox">Replenish</th><th data-type="checkbox">Burned</th><th></th></tr></thead><tbody><tr><td>OG Mine</td><td>$OGG</td><td>Mining fees</td><td>true</td><td>true</td><td>false</td><td>oggzGFTgRM61YmhEbgWeivVmQx8bSAdBvsPGqN3ZfxN</td></tr><tr><td>OG Reserve</td><td>$OGC</td><td>Reserve fees</td><td>true</td><td>true</td><td>false</td><td><p></p><p>9amqn5HuK6554dnAEQWJMMGTyrQBVWzKzt9vdVGTBwKo</p></td></tr><tr><td>OG Lottery</td><td>$OGF</td><td>Lottery fees</td><td>true</td><td>false</td><td>true</td><td>(coming soon)</td></tr></tbody></table>
+
 ## Impact on the Realm
 
 The overall effect of the Repurchase Programs is to assist in supporting a floor value for [$OGG](tokens/usdogg-og-gold.md), [$OGC](tokens/usdogc-og-coin.md), and [$OGF](tokens/usdogf-og-fool.md) by continuously repurchasing these tokens from the open market.&#x20;
