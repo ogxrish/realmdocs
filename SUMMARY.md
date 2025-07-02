@@ -24,6 +24,8 @@
 
 ## Constructs
 
+* [☀️ Epochs](constructs/epochs.md)
+* [📈 Difficulty](constructs/difficulty.md)
 * [🪙 Tokens](constructs/tokens/README.md)
   * [$OGR - OG Realm](constructs/tokens/usdogr-og-realm.md)
   * [$OGM - OG Matter](constructs/tokens/usdogm-og-matter.md)
@@ -35,8 +37,6 @@
   * [Realm Pools](constructs/liquidity-pools/realm-pools.md)
   * [Eternal Pools](constructs/liquidity-pools/eternal-pools.md)
   * [Sanctioned Pools](constructs/liquidity-pools/sanctioned-pools.md)
-* [☀️ Epochs](constructs/epochs.md)
-* [📈 Difficulty](constructs/difficulty.md)
 * [⚙️ Repurchase Programs](constructs/repurchase-programs.md)
 * [🧠 Knowledge Base](constructs/knowledge-base.md)
 
