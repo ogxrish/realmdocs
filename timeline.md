@@ -8,8 +8,8 @@ description: An extensive order of the Realm's milestones
 
 ## Pre-OG
 
-* [Realm of OGs](power/realm-of-ogs.md) is founded
-* [Discord](https://discord.gg/ogrealm) is created
+* 01/01/24 - [Realm of OGs](power/realm-of-ogs.md) is founded
+* 03/18/24 - [Discord](https://discord.gg/ogrealm) is created
 * [Tokens](constructs/tokens/) are minted
 * [OG Bank](institutions/og-bank.md) is established
 * [OG Lab](institutions/og-lab.md) is established
