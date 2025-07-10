@@ -31,6 +31,10 @@ description: An extensive order of the Realm's milestones
   * OG Bank transfers 70% $OGA to OG Lab - ([Solscan](https://solscan.io/tx/2dSNQkLGfqroubWXJwH32CUwsQ7Yav1ejF6F2u8YaMvHnebDfYFGVZL9ySLnKfPWE8ATMjUcoVjYRuJSjNLadp3c))
 * 07/07/24 - [Liquidity Pools](constructs/liquidity-pools/) are created
   * OG Bank adds 10% $OGR and 10% $OGM to $OGR-$OGM LP - ([Solscan](https://solscan.io/tx/4HwgLeanrXZM2L9SqhZsAiNsEwfmhnRogTXY42goDNVZrxLWPVrQKWCXCWQYHTgo9GNh3SaJTnhgiaMHBraeEUZ))
+  * OG Bank adds 10% $OGM and 10% $OGA to $OGM-$OGA LP - ([Solscan](https://solscan.io/tx/3a7SW13DYRnLoV944c1xbojAWpqkXAoEPwm2MRmDjSt6oRsh9JUP2aLB62xqmcgye4ogRGywWKuSukTXA3z3P5Ky))
+  * OG Bank adds 10% $OGA and 10% $OGG to $OGA-$OGG LP - ([Solscan](https://solscan.io/tx/4dsQEx27uzBSS5kxRTRMS9e5vLzKDSicihC4rEMN9Se5SCytxuFoKKSfcH6YcXdGfFpVT8sYvLmpcnt8B5ePRDhF))
+  * OG Bank adds 10% $OGG and 10% $OGC to $OGG-$OGC LP - ([Solscan](https://solscan.io/tx/2NwXMfSZdbmv5DL7P9qsSqjokjG5aZ1TBSHD66ak7etGFgwwa63SktefhK6VrsRPFuiZg7bcGhESiynDSZHBpvvR))
+  * OG Bank adds 10% $OGC and 10% $OGF to $OGC-$OGF LP - ([Solscan](https://solscan.io/tx/3s8qfc4kp14EgeGofxhESDj8uAu78wMu2edRXHoKnfAte6g6dbqRyXkfFfok8M554s6Pi25jZHB1fzJxvepTcEEE))
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
 * 07/28/24 - [OG Mine](institutions/og-mine.md) is established
 * 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
