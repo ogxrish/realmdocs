@@ -62,11 +62,12 @@ description: An extensive order of the Realm's milestones
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
 * 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
 * 12/15/24 - Sanctioned Polls are created
-  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
-  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
-  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
-  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
+  * OG Lab adds $OGR and SOL to $OGR-SOL LP - ([Solscan 1](https://solscan.io/tx/cUDMLJVw7yhobGKRsmaTeSYeQ2HfbWnzpVmuPPKxK3Zi58SCZkJ1aTTkuH3BczdGxRFwfxhKgTFD91rQ6o2H1gT), [Solscan 2](https://solscan.io/tx/VeRxPdYwRkXysE3Zykc1pUujUrZZ3dF1gdy9ETZGhqXDbQQTXFjL4oXE5EFDog2x7PF5RVQ2jtyZDbCZarDcJaL))
+  * OG Lab adds $OGM and SOL to $OGM-SOL LP - ([Solscan 1](https://solscan.io/tx/53a71bgs7YRyPg7SM7kRoiEV7UpABpNq9J4SbtzsQ1miMtwSQPg5YFrtfD3fTBaD3ybdHKd7tbnJFSv6whJPb1HY), [Solscan 2](https://solscan.io/tx/5qq9wEBXTH8GJha11LiFF1DWTwHjsyyafdAHSbWQPoesyYtAgbz7gnKxV8e8sNZnKzs51jp2cn1xfTGzAh21yoCo))
+  * OG Lab adds $OGA and SOL to $OGA-SOL LP - ([Solscan 1](https://solscan.io/tx/5jdYVEaGygoibbmTod1CXucoicD68GK27F1KYMLLduGjse5Q1AvjkXahAxDytoUud211gQEeEVSDasRBw7L1DLTs), [Solscan 2](https://solscan.io/tx/xpckpDzyYBwPY4PeB1Vr2rQNWB9B8WNmPDEJKHEaadhXmVazagLCCGHpKtyKkb7GogCKedyDUHt7oHn8iPmyj1g), [Solscan 3](https://solscan.io/tx/22tdv39wRroxsUFYh8PT6tm54iSgjd2M5C68qJvEynd2smSTdPXikEX6i6xVwpUDEsG755xBq5wZvHVA9HHTfDtv))
+  * OG Lab adds $OGC and SOL to $OGC-SOL LP - ([Solscan 1](https://solscan.io/tx/4ZUZ8aXfpatfxjqzotyz5ggdbSTaZp71hsPNM9Z8su92TocBJdPjs5FyDpfYnaMeqaXCvnyCzDZk7UBrHiVK5yjV), [Solscan 2](https://solscan.io/tx/4YSJKuM2grLBdJg9uy675pQmVS9Rz4e5Q6sAMJiTtd3DzwEr2M6X9kUn8zva23rxhAoeRdM8BdqSR3CnH4WZ6FBd))
   * OG Lab adds $OGF and SOL to $OGF-SOL LP - ([Solscan](https://solscan.io/tx/RYqqWYNXeNePq2AdNZ6DYBZpcXYuvCJmu47ktmqdxbTae7ACDSuHzVB4V2iHyiVbk7GMBHpBHvNFAvnnqjs3SiA))
+* 12/16/24 - OG Lab market purchases 5% (50m) $OGG - ([Solscan](https://solscan.io/tx/2LGjvoNSpnAG8rT641H2eT8x4gkfNNc16axvFuFz4HYMgUbR7mz5dsSjNg3kEXK8dAVMEJkjXVwiTHGqeVL2hbM4))
 * 12/21/24 - [Docs](broken-reference) are published
 
 ## Year 1  (2025)
