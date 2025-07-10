@@ -28,7 +28,9 @@ description: An extensive order of the Realm's milestones
   * OG Realm transfers 100% $OGF to OG Bank - ([Solscan](https://solscan.io/tx/4FiBmNFWUJVVMsaRgpimGNvYftWymFqU2HZNzJcEQQe5bF7F47aSP1Vq7c3cZV7VFH3CyszDTiV6B2k9UXBtjUnA))
 * 07/06/24 - [OG Lab](institutions/og-lab.md) is established
 * 07/06/24 - OG Lab wallet is funded - ([Solscan](https://solscan.io/tx/2rX7UiDBs66fzuenoQFb95js6S7yKSib9ub8ZFiN4FPzb7df1e8XDszwyynKgSsm6Cy3q1MZQmHFEi8vWHAExfcx))
+  * OG Bank transfers 70% $OGA to OG Lab - ([Solscan](https://solscan.io/tx/2dSNQkLGfqroubWXJwH32CUwsQ7Yav1ejF6F2u8YaMvHnebDfYFGVZL9ySLnKfPWE8ATMjUcoVjYRuJSjNLadp3c))
 * 07/07/24 - [Liquidity Pools](constructs/liquidity-pools/) are created
+  * OG Bank adds 10% $OGR and 10% $OGM to $OGR-$OGM LP - ([Solscan](https://solscan.io/tx/4HwgLeanrXZM2L9SqhZsAiNsEwfmhnRogTXY42goDNVZrxLWPVrQKWCXCWQYHTgo9GNh3SaJTnhgiaMHBraeEUZ))
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
 * 07/28/24 - [OG Mine](institutions/og-mine.md) is established
 * 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
