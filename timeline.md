@@ -61,6 +61,12 @@ description: An extensive order of the Realm's milestones
 * 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
 * 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
+* 12/15/24 - Sanctioned Polls are created
+  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
+  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
+  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
+  * OG Lab adds $OGF and SOL to $OGF-SOL LP - (Solscan)
+  * OG Lab adds $OGF and SOL to $OGF-SOL LP - ([Solscan](https://solscan.io/tx/RYqqWYNXeNePq2AdNZ6DYBZpcXYuvCJmu47ktmqdxbTae7ACDSuHzVB4V2iHyiVbk7GMBHpBHvNFAvnnqjs3SiA))
 * 12/21/24 - [Docs](broken-reference) are published
 
 ## Year 1  (2025)
