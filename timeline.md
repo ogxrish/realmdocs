@@ -10,8 +10,8 @@ description: An extensive order of the Realm's milestones
 
 * 01/01/24 - [Realm of OGs](power/realm-of-ogs.md) is founded
 * 03/18/24 - [Discord](https://discord.gg/ogrealm) is created
-* [Tokens](constructs/tokens/) are minted
-* [OG Bank](institutions/og-bank.md) is established
+* 07/05/24 - [Tokens](constructs/tokens/) are minted
+* 07/06/24 - [OG Bank](institutions/og-bank.md) is established
 * [OG Lab](institutions/og-lab.md) is established
 * [Liquidity Pools](constructs/liquidity-pools/) are created
 * [OG Mine](institutions/og-mine.md) is established
