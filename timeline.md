@@ -43,7 +43,16 @@ description: An extensive order of the Realm's milestones
   * OG Bank burns $OGG-$OGC LP tokens - ([Solscan](https://solscan.io/tx/52ThA2YKiJsxHEEmyRFgrR52i8WUkcREo3tH5czLR2zN4tBBHtJD9G9yNF3WrrnGqHN3jgeEjRucDGZ5ow1kAmhh))
   * OG Bank burns $OGC-$OGF LP tokens - ([Solscan](https://solscan.io/tx/uYzLxJ1AWW2GUTKGxh8zRuDMoH1jBJh4WuYAqJBYRV75Tr7Nw5cn8NfuHnT85rnXvRi3rTLQMtVVaW2jGCWxkTF))
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
+  * OG Bank transfers 60% $OGG to OG Mine - ([Solscan](https://solscan.io/tx/48YauWagRUPG6PH1VLvnnAeMTAV1M4h6dhzvXjphQJZFPJPpMwv6R4CzPdiN1YD7PSDpc9eq3FQBh9yXWKy8mDA6))
 * 07/28/24 - [OG Mine](institutions/og-mine.md) is established
+* 07/30/24 - Eternal Pools are created
+  * OG Bank adds 10% $OGG and SOL to $OGG-SOL LP - ([Solscan](https://solscan.io/tx/254bwRuhuyhX6Zn1QBejtVb1hwaZSKwK3LUxFUhy24bXYaUbQMMjU8nq3G7whqYKystMVN6cERiuKJRQeHLKzGxK))
+  * (8/12) OG Bank adds 10% $OGC and USDC to $OGC-USDC LP - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
+  * (12/8) OG Bank adds 10% $OGM and cbBTC to $OGM-cbBTC LP - ([Solscan](https://solscan.io/tx/2BnSeA7YnNW9jaRPf2TDfnXgjWGYHuJoLbePybQTAsqKt7wvjHfijgBYGvdkpFoVPzmNuEEx7siisZCenm7ihSBu))
+* 07/30/24 - Eternal Pools are permanently locked
+  * OG Bank burns $OGG-SOL LP tokens - ([Solscan](https://solscan.io/tx/5itjTVukf8YX929Aixzrm5KtQrtEXdXTCG2SvhvV8y9BbELf41Y8S3TSJ35XvjucnRkaZHiHe3B8c3uGWc6tHHpD))
+  * (8/12) OG Bank burns $OGC-USDC LP tokens - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
+  * (12/8) OG Bank burns $OGM-cbBTC LP tokens - ([Solscan](https://solscan.io/tx/5wW6FZCuE5Vu4W7eTvq92LGmfLbGk4PUUzGycMwSfpasEnMT1sgHZBen7MJkpebp4dwi3UuSyX7BVovynY37HTzL))
 * 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
 * 11/18/24 - [OG Reserve](institutions/og-reserve.md) is established
 * 11/20/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
