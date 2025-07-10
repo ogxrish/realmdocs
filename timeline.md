@@ -28,7 +28,6 @@ description: An extensive order of the Realm's milestones
   * OG Realm transfers 10% $OGR is to OG Bank - ([Solscan](https://solscan.io/tx/d6EbhacWqvuVJrNjM4A7qdX2SZpuvY3KHpNKGG5oQo8tK2ZkiBMELT2L8pFtoDVtifNYe8ZLJX3LKVLbnSkwt4h))
 * 07/06/24 - [OG Lab](institutions/og-lab.md) is established
 * 07/06/24 - OG Lab wallet is funded - ([Solscan](https://solscan.io/tx/2rX7UiDBs66fzuenoQFb95js6S7yKSib9ub8ZFiN4FPzb7df1e8XDszwyynKgSsm6Cy3q1MZQmHFEi8vWHAExfcx))
-*
 * 07/07/24 - [Liquidity Pools](constructs/liquidity-pools/) are created
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
 * 07/28/24 - [OG Mine](institutions/og-mine.md) is established
@@ -46,7 +45,8 @@ description: An extensive order of the Realm's milestones
 * 01/06/25 - [Discord](https://discord.gg/ogrealm) is opened to public
 * 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled
 * 03/05/25 - OG Lottery wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
-* 05/26/25 - [Knowledge Base](constructs/knowledge-base.md) launched
+* 05/23/25 - [Knowledge Base](constructs/knowledge-base.md) launched
+* 05/26/25 - Jester (NPC) launched
 * 06/16/25 - Discord Price Bots launched
 * 07/07/25 - Willy the Degen wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
 * 07/15/25 - [OG Lottery](institutions/og-lottery.md) is established \[tentative]
