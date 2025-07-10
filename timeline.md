@@ -26,5 +26,7 @@ description: An extensive order of the Realm's milestones
 
 * 01/06/25 - [Discord](https://discord.gg/ogrealm) is opened to public
 * 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled
+* 05/26/25 - [Knowledge Base](constructs/knowledge-base.md) launched
+* 06/16/25 - Discord Price Bots launched
 * 07/15/25 - [OG Lottery](institutions/og-lottery.md) is established \[tentative]
 
