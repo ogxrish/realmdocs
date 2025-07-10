@@ -22,16 +22,19 @@ description: An extensive order of the Realm's milestones
 * 07/06/24 - OG Bank wallet is funded - ([Solscan](https://solscan.io/tx/3pqsyiYmyaGcA2zuYbZsfov9XWwyCyc9ogY349dcX4RzPkbhCKzWENdjJoNyKkTLKB5ApmMBfvv59aERb2pG5t43))
 * 07/06/24 - [OG Lab](institutions/og-lab.md) is established
 * 07/06/24 - OG Lab wallet is funded - ([Solscan](https://solscan.io/tx/2rX7UiDBs66fzuenoQFb95js6S7yKSib9ub8ZFiN4FPzb7df1e8XDszwyynKgSsm6Cy3q1MZQmHFEi8vWHAExfcx))
-* 07/06/24 - $OGF is transferred to OG Bank - ([Solscan](https://solscan.io/tx/4FiBmNFWUJVVMsaRgpimGNvYftWymFqU2HZNzJcEQQe5bF7F47aSP1Vq7c3cZV7VFH3CyszDTiV6B2k9UXBtjUnA))
-* 07/06/24 - $OGC is transferred to OG Bank - ([Solscan](https://solscan.io/tx/U25Kvw88btCQBpZ539ypjTo8RoBAePnW5cCEynbm9vf9CpcXyKG4uu8Yfu8EsqQi25MJSQ8eRuFM6bdtnWiuJ5r))
-* 07/06/24 - $OGG is transferred to OG Bank - (Solscan)
-* 07/06/24 - $OGA is transferred to OG Bank - (Solscan)
-* 07/06/24 - $OGM is transferred to OG Bank - (Solscan)
-* 07/06/24 - $OGR is transferred to OG Bank - (Solscan)
+* 07/06/24 - 100% $OGF is transferred to OG Bank - ([Solscan](https://solscan.io/tx/4FiBmNFWUJVVMsaRgpimGNvYftWymFqU2HZNzJcEQQe5bF7F47aSP1Vq7c3cZV7VFH3CyszDTiV6B2k9UXBtjUnA))
+* 07/06/24 - 100% $OGC is transferred to OG Bank - ([Solscan](https://solscan.io/tx/U25Kvw88btCQBpZ539ypjTo8RoBAePnW5cCEynbm9vf9CpcXyKG4uu8Yfu8EsqQi25MJSQ8eRuFM6bdtnWiuJ5r))
+* 07/06/24 - 100% $OGG is transferred to OG Bank - ([Solscan](https://solscan.io/tx/eRmpJw1AKaLhewmsHjyf6pnEaPV1MwE5RS783Y6LW6horT1Fr9Jm3UZQg7mu4UwzCLCPth4tKNSHeHpeWxCWuLB))
+* 07/06/24 - 100% $OGA is transferred to OG Bank - ([Solscan](https://solscan.io/tx/4TqZvQDTy8DAXahwemuNE1q3fLL4HRC3ip6NiUvyHh6MTbytRUBfDymyBMNiRT2hAk9ocUyS5xssWKj5e6oVtD1Y))
+* 07/06/24 - 100% $OGM is transferred to OG Bank - ([Solscan](https://solscan.io/tx/4ganH5L4xQJX3bjUCQ3k5rrrH2cvLtSjbJrrDJ8MdfVnYr9DMT7esnGHUQiqhsm3bKeDBZ84TK8juzxghkrSfFrK))
+* 07/06/24 - 10% $OGR is transferred to OG Bank - ([Solscan](https://solscan.io/tx/d6EbhacWqvuVJrNjM4A7qdX2SZpuvY3KHpNKGG5oQo8tK2ZkiBMELT2L8pFtoDVtifNYe8ZLJX3LKVLbnSkwt4h))
 * 07/07/24 - [Liquidity Pools](constructs/liquidity-pools/) are created
+* 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
 * 07/28/24 - [OG Mine](institutions/og-mine.md) is established
 * 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
 * 11/18/24 - [OG Reserve](institutions/og-reserve.md) is established
+* 11/20/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
+* 11/21/24 - Willy the Prophet wallet is funded - ([Solscan](https://solscan.io/tx/3V561D4eMEv4TkNCPQKdSKKUZt493sMXGAzVvicprrD2pnSyxWTQWEmtJmL37hgug72viontcUxayS3eEsw8BxVw))
 * 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
 * 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
@@ -41,7 +44,9 @@ description: An extensive order of the Realm's milestones
 
 * 01/06/25 - [Discord](https://discord.gg/ogrealm) is opened to public
 * 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled
+* 03/05/25 - OG Lottery wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
 * 05/26/25 - [Knowledge Base](constructs/knowledge-base.md) launched
 * 06/16/25 - Discord Price Bots launched
+* 07/07/25 - Willy the Degen wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
 * 07/15/25 - [OG Lottery](institutions/og-lottery.md) is established \[tentative]
 
