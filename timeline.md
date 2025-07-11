@@ -60,6 +60,7 @@ description: An extensive order of the Realm's milestones
 * 11/18/24 - OG Bank transfers 70% OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
 * 11/19/24 - OG Reserve wallet loads 70% $OGC to OG Reserve program - ([Solscan](https://solscan.io/tx/Hfg7D5XC2WHtSCPU8atHxT4JSubWp1fgbS49phwdkMCivtrFgcswb3LEKpZn2ywXwfVXQAF6wVeEgdfjv1RnHTY))
 * 11/21/24 - Willy the Prophet wallet is funded - ([Solscan](https://solscan.io/tx/3V561D4eMEv4TkNCPQKdSKKUZt493sMXGAzVvicprrD2pnSyxWTQWEmtJmL37hgug72viontcUxayS3eEsw8BxVw))
+* 11/21/24 - Willy the Prophet market purchases 6.66% (66.6m) $OGG - ([Solscan 1](https://solscan.io/tx/5WEhPAzj6AAmzkVipqWsY4J2hthGjanYAYdx4WBT3HTNUXuKLvPunXvNhWFjMRTjBpZgfYsFkj1zWqXwvWP8oSnv), [Solscan 2](https://solscan.io/tx/Nes1b8qwKLPBYkQnC3X4WsUj1SQUpNz1Sd42JiVmaNdzjUyWFnjmrstqptmf8frYstRNcx1hUH6TMTwrF2rKgY8))
 * 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
 * 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
