@@ -53,10 +53,12 @@ description: An extensive order of the Realm's milestones
   * OG Bank burns $OGG-SOL LP tokens - ([Solscan](https://solscan.io/tx/5itjTVukf8YX929Aixzrm5KtQrtEXdXTCG2SvhvV8y9BbELf41Y8S3TSJ35XvjucnRkaZHiHe3B8c3uGWc6tHHpD))
   * (8/12) OG Bank burns $OGC-USDC LP tokens - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
   * (12/8) OG Bank burns $OGM-cbBTC LP tokens - ([Solscan](https://solscan.io/tx/5wW6FZCuE5Vu4W7eTvq92LGmfLbGk4PUUzGycMwSfpasEnMT1sgHZBen7MJkpebp4dwi3UuSyX7BVovynY37HTzL))
+* 07/31/24 - OG Mine wallet loads 60% $OGG to OG Mine program - ([Solscan 1](https://solscan.io/tx/42WyxW6CMGUzjjv3XWAUFBzBJFiFJCPGJFa2V4shynExB2WgD4PruMj58k4L6CTHwJoBVLovoJhfYbgxPDc4CiVh), [Solscan 2](https://solscan.io/tx/4Hpj2NomgSW4oAsgf3w1svVxzrgvLUbqT7ENSicxQMufPG4cF8jQk7fe8AH6KTN3M1skpVCLZc6c4CMZinVt6aEu))
 * 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
 * 11/18/24 - [OG Reserve](institutions/og-reserve.md) is established
+* 11/18/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
 * 11/18/24 - OG Bank transfers 70% OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
-* 11/20/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
+* 11/19/24 - OG Reserve wallet loads 70% $OGC to OG Reserve program - ([Solscan](https://solscan.io/tx/Hfg7D5XC2WHtSCPU8atHxT4JSubWp1fgbS49phwdkMCivtrFgcswb3LEKpZn2ywXwfVXQAF6wVeEgdfjv1RnHTY))
 * 11/21/24 - Willy the Prophet wallet is funded - ([Solscan](https://solscan.io/tx/3V561D4eMEv4TkNCPQKdSKKUZt493sMXGAzVvicprrD2pnSyxWTQWEmtJmL37hgug72viontcUxayS3eEsw8BxVw))
 * 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
