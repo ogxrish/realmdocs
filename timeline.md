@@ -10,19 +10,18 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Creation</summary>
+<summary>Realm is founded</summary>
 
 * 01/01/24 - [Realm of OGs](power/realm-of-ogs.md) is founded
 * 03/18/24 - [Discord](https://discord.gg/ogrealm) is created
-*
 
 </details>
 
-
+## July, 2024
 
 <details>
 
-<summary>Mad OG arrives</summary>
+<summary>Tokens are minted</summary>
 
 * 07/05/24 - OG Realm wallet is funded - ([Solscan](https://solscan.io/tx/4Kwmo2fd7wcciTNmQKuSmyhQUGceVk6SvMhL41QVRtxeJ7p69jvfxurMn79aPTCPNzF4i5MbJDvhsrcGre5pzdJE))
 * 07/05/24 - OG Realm tokens are minted
@@ -59,8 +58,6 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-
-
 <details>
 
 <summary>Realm Pools are created</summary>
@@ -81,73 +78,53 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-\
+<details>
 
+<summary>Eternal Pools are created</summary>
+
+* 07/30/24 - $OGG-SOL LP
+  * OG Bank adds 10% $OGG and SOL to $OGG-SOL LP - ([Solscan](https://solscan.io/tx/254bwRuhuyhX6Zn1QBejtVb1hwaZSKwK3LUxFUhy24bXYaUbQMMjU8nq3G7whqYKystMVN6cERiuKJRQeHLKzGxK))
+  * OG Bank burns $OGG-SOL LP tokens - ([Solscan](https://solscan.io/tx/5itjTVukf8YX929Aixzrm5KtQrtEXdXTCG2SvhvV8y9BbELf41Y8S3TSJ35XvjucnRkaZHiHe3B8c3uGWc6tHHpD))
+* 08/12/24 - $OGC-USDC LP
+  * OG Bank adds 10% $OGC and USDC to $OGC-USDC LP - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
+  * OG Bank burns $OGC-USDC LP tokens - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
+
+- 12/08/24 - $OGM-cbBTC LP
+  * OG Bank adds 10% $OGM and cbBTC to $OGM-cbBTC LP - ([Solscan](https://solscan.io/tx/2BnSeA7YnNW9jaRPf2TDfnXgjWGYHuJoLbePybQTAsqKt7wvjHfijgBYGvdkpFoVPzmNuEEx7siisZCenm7ihSBu))
+  * OG Bank burns $OGM-cbBTC LP tokens - ([Solscan](https://solscan.io/tx/5wW6FZCuE5Vu4W7eTvq92LGmfLbGk4PUUzGycMwSfpasEnMT1sgHZBen7MJkpebp4dwi3UuSyX7BVovynY37HTzL))
+
+</details>
 
 <details>
 
-<summary>OG Mine</summary>
+<summary>OG Mine is established</summary>
 
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
-  * OG Bank transfers 60% $OGG to OG Mine - ([Solscan](https://solscan.io/tx/48YauWagRUPG6PH1VLvnnAeMTAV1M4h6dhzvXjphQJZFPJPpMwv6R4CzPdiN1YD7PSDpc9eq3FQBh9yXWKy8mDA6))
+* 07/25/24 - OG Bank transfers 60% $OGG to OG Mine - ([Solscan](https://solscan.io/tx/48YauWagRUPG6PH1VLvnnAeMTAV1M4h6dhzvXjphQJZFPJPpMwv6R4CzPdiN1YD7PSDpc9eq3FQBh9yXWKy8mDA6))
 
-- 07/28/24 - [OG Mine](institutions/og-mine.md) is established
-
-</details>
-
-\
-
-
-<details>
-
-<summary>Eternal Pools</summary>
-
-* 07/30/24 - Eternal Pools are created
-  * OG Bank adds 10% $OGG and SOL to $OGG-SOL LP - ([Solscan](https://solscan.io/tx/254bwRuhuyhX6Zn1QBejtVb1hwaZSKwK3LUxFUhy24bXYaUbQMMjU8nq3G7whqYKystMVN6cERiuKJRQeHLKzGxK))
-  * (8/12) OG Bank adds 10% $OGC and USDC to $OGC-USDC LP - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
-  * (12/8) OG Bank adds 10% $OGM and cbBTC to $OGM-cbBTC LP - ([Solscan](https://solscan.io/tx/2BnSeA7YnNW9jaRPf2TDfnXgjWGYHuJoLbePybQTAsqKt7wvjHfijgBYGvdkpFoVPzmNuEEx7siisZCenm7ihSBu))
-
-- 07/30/24 - Eternal Pools are permanently locked
-  * OG Bank burns $OGG-SOL LP tokens - ([Solscan](https://solscan.io/tx/5itjTVukf8YX929Aixzrm5KtQrtEXdXTCG2SvhvV8y9BbELf41Y8S3TSJ35XvjucnRkaZHiHe3B8c3uGWc6tHHpD))
-  * (8/12) OG Bank burns $OGC-USDC LP tokens - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
-  * (12/8) OG Bank burns $OGM-cbBTC LP tokens - ([Solscan](https://solscan.io/tx/5wW6FZCuE5Vu4W7eTvq92LGmfLbGk4PUUzGycMwSfpasEnMT1sgHZBen7MJkpebp4dwi3UuSyX7BVovynY37HTzL))
-
-</details>
-
-\
-
-
-<details>
-
-<summary>OG Mine</summary>
-
-* 07/31/24 - OG Mine wallet loads 60% $OGG to OG Mine program - ([Solscan 1](https://solscan.io/tx/42WyxW6CMGUzjjv3XWAUFBzBJFiFJCPGJFa2V4shynExB2WgD4PruMj58k4L6CTHwJoBVLovoJhfYbgxPDc4CiVh), [Solscan 2](https://solscan.io/tx/4Hpj2NomgSW4oAsgf3w1svVxzrgvLUbqT7ENSicxQMufPG4cF8jQk7fe8AH6KTN3M1skpVCLZc6c4CMZinVt6aEu))
-
+- 07/31/24 - OG Mine wallet loads 60% $OGG to OG Mine program - ([Solscan 1](https://solscan.io/tx/42WyxW6CMGUzjjv3XWAUFBzBJFiFJCPGJFa2V4shynExB2WgD4PruMj58k4L6CTHwJoBVLovoJhfYbgxPDc4CiVh), [Solscan 2](https://solscan.io/tx/4Hpj2NomgSW4oAsgf3w1svVxzrgvLUbqT7ENSicxQMufPG4cF8jQk7fe8AH6KTN3M1skpVCLZc6c4CMZinVt6aEu))
 - 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
 - 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
 
 </details>
 
+## November, 2024
+
 <details>
 
-<summary>OG Reserve</summary>
+<summary>OG Reserve is established</summary>
 
-* 11/18/24 - [OG Reserve](institutions/og-reserve.md) is established
-
-- 11/18/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
-- 11/18/24 - OG Bank transfers 70% OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
-- 11/19/24 - OG Reserve wallet loads 70% $OGC to OG Reserve program - ([Solscan](https://solscan.io/tx/Hfg7D5XC2WHtSCPU8atHxT4JSubWp1fgbS49phwdkMCivtrFgcswb3LEKpZn2ywXwfVXQAF6wVeEgdfjv1RnHTY))
-- 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
-- 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
+* 11/18/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
+* 11/18/24 - OG Bank transfers 70% OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
+* 11/19/24 - OG Reserve wallet loads 70% $OGC to OG Reserve program - ([Solscan](https://solscan.io/tx/Hfg7D5XC2WHtSCPU8atHxT4JSubWp1fgbS49phwdkMCivtrFgcswb3LEKpZn2ywXwfVXQAF6wVeEgdfjv1RnHTY))
+* 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
+* 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
 
 </details>
 
-\
-
-
 <details>
 
-<summary>Willy the Prophet</summary>
+<summary>Willy the Prophet emerges</summary>
 
 * 11/21/24 - Willy the Prophet wallet is funded - ([Solscan](https://solscan.io/tx/3V561D4eMEv4TkNCPQKdSKKUZt493sMXGAzVvicprrD2pnSyxWTQWEmtJmL37hgug72viontcUxayS3eEsw8BxVw))
 
@@ -155,12 +132,11 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-\
-
+## December, 2024
 
 <details>
 
-<summary>Sanctioned Pools</summary>
+<summary>Sanctioned Pools are created</summary>
 
 * 12/15/24 - Sanctioned Pools are created
   * OG Lab adds $OGR and SOL to $OGR-SOL LP - ([Solscan 1](https://solscan.io/tx/cUDMLJVw7yhobGKRsmaTeSYeQ2HfbWnzpVmuPPKxK3Zi58SCZkJ1aTTkuH3BczdGxRFwfxhKgTFD91rQ6o2H1gT), [Solscan 2](https://solscan.io/tx/VeRxPdYwRkXysE3Zykc1pUujUrZZ3dF1gdy9ETZGhqXDbQQTXFjL4oXE5EFDog2x7PF5RVQ2jtyZDbCZarDcJaL))
@@ -171,26 +147,85 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-* \
+<details>
 
-* 12/16/24 - OG Lab market purchases 5% (50m) $OGG - ([Solscan](https://solscan.io/tx/2LGjvoNSpnAG8rT641H2eT8x4gkfNNc16axvFuFz4HYMgUbR7mz5dsSjNg3kEXK8dAVMEJkjXVwiTHGqeVL2hbM4))\
+<summary>OG Lab purchases $OGG</summary>
+
+* 12/16/24 - OG Lab market purchases 5% (50m) $OGG - ([Solscan](https://solscan.io/tx/2LGjvoNSpnAG8rT641H2eT8x4gkfNNc16axvFuFz4HYMgUbR7mz5dsSjNg3kEXK8dAVMEJkjXVwiTHGqeVL2hbM4))
+
+</details>
+
+<details>
+
+<summary>Realm Docs are published</summary>
 
 * 12/21/24 - [Docs](broken-reference) are published
 
-## Year 1  (2025)
+</details>
 
-* 01/06/25 - [Discord](https://discord.gg/ogrealm) is opened to public\
+## January, 2025
 
-* 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled\
+<details>
+
+<summary>Discord community expands</summary>
+
+* 01/06/25 - [Discord](https://discord.gg/ogrealm) is opened to public
+
+</details>
+
+## February, 2025
+
+<details>
+
+<summary>Fees in $OGC introduced</summary>
+
+* 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled
+
+</details>
+
+## March, 2025
+
+<details>
+
+<summary>OG Lottery is established</summary>
 
 * 03/05/25 - OG Lottery wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
-  * OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))\
+* 03/05/25 - OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))
+
+</details>
+
+## May 2025
+
+<details>
+
+<summary>Artificial Intelligence is integrated</summary>
 
 * 05/23/25 - [Knowledge Base](constructs/knowledge-base.md) launched
 * 05/26/25 - Jester (NPC) launched
-* 06/16/25 - Discord Price Bots launched\
 
-* 07/07/25 - Willy the Degen wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))\
+</details>
+
+## June, 2025
+
+<details>
+
+<summary>Live token price integration</summary>
+
+* 06/16/25 - Discord Price Bots launched
+
+</details>
+
+## July, 2025
+
+<details>
+
+<summary>Willy the Degen emerges</summary>
+
+* 07/07/25 - Willy the Degen wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
+
+</details>
+
+
 
 * 07/15/25 - [OG Lottery](institutions/og-lottery.md) is established \[tentative]
 
