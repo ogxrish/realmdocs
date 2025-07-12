@@ -17,8 +17,6 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-## July, 2024
-
 <details>
 
 <summary>Tokens are minted</summary>
@@ -108,8 +106,6 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-## November, 2024
-
 <details>
 
 <summary>OG Reserve is established</summary>
@@ -131,8 +127,6 @@ description: An extensive order of the Realm's milestones
 - 11/21/24 - Willy the Prophet market purchases 6.66% (66.6m) $OGG - ([Solscan 1](https://solscan.io/tx/5WEhPAzj6AAmzkVipqWsY4J2hthGjanYAYdx4WBT3HTNUXuKLvPunXvNhWFjMRTjBpZgfYsFkj1zWqXwvWP8oSnv), [Solscan 2](https://solscan.io/tx/Nes1b8qwKLPBYkQnC3X4WsUj1SQUpNz1Sd42JiVmaNdzjUyWFnjmrstqptmf8frYstRNcx1hUH6TMTwrF2rKgY8))
 
 </details>
-
-## December, 2024
 
 <details>
 
@@ -163,7 +157,7 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-## January, 2025
+## Year 1
 
 <details>
 
@@ -173,8 +167,6 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-## February, 2025
-
 <details>
 
 <summary>Fees in $OGC introduced</summary>
@@ -182,8 +174,6 @@ description: An extensive order of the Realm's milestones
 * 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled
 
 </details>
-
-## May 2025
 
 <details>
 
@@ -194,8 +184,6 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-## June, 2025
-
 <details>
 
 <summary>Live token price integration</summary>
@@ -203,8 +191,6 @@ description: An extensive order of the Realm's milestones
 * 06/16/25 - Discord Price Bots launched
 
 </details>
-
-## July, 2025
 
 <details>
 
