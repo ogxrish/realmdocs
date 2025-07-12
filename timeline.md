@@ -8,18 +8,36 @@ description: An extensive order of the Realm's milestones
 
 ## Pre-OG
 
-* 01/01/24 - [Realm of OGs](power/realm-of-ogs.md) is founded\
+<details>
 
-* 03/18/24 - [Discord](https://discord.gg/ogrealm) is created\
+<summary>Creation</summary>
 
+* 01/01/24 - [Realm of OGs](power/realm-of-ogs.md) is founded
+* 03/18/24 - [Discord](https://discord.gg/ogrealm) is created
 * 07/05/24 - OG Realm wallet is funded - ([Solscan](https://solscan.io/tx/4Kwmo2fd7wcciTNmQKuSmyhQUGceVk6SvMhL41QVRtxeJ7p69jvfxurMn79aPTCPNzF4i5MbJDvhsrcGre5pzdJE))
+
+</details>
+
+
+
+<details>
+
+<summary>Tokens</summary>
+
 * 07/05/24 - [Tokens](constructs/tokens/) are minted
   * OG Realm mints 1 $OGR - ([Solscan](https://solscan.io/tx/52Pu6sohtqfpjYWqHgUADKKbbcJ93nJ853vBqjx3FyvGemhwL8fH91jWWCmTts1ncQVsy64UbeWQpPGbMjycoBpN))
   * OG Realm mints 1,000 $OGM - ([Solscan](https://solscan.io/tx/2oQFweRXX1SGqZtMJbwuJbBpeZ7YScmgEWt9USqYtbfqoyQ3UMGuNLDuAaH8PEQ95cz3diYjkjSqJMo8vLHnBzBX))
   * OG Realm mints 1,000,000 $OGA - ([Solscan](https://solscan.io/tx/35kfEBKLo6puEP8ESbbU3h2dKQdrmTmGJS7RHXdiyBGtwN2PCQN6n38AjZSCmjrwgVc6mP28NS9CJT1zW4xcKHd1))
   * OG Realm mints 1,000,000,000 $OGG - ([Solscan](https://solscan.io/tx/pLYntYQV3UXJjshACfDycLQKS22DKSRGe9ShtHZf6qjwBnfVGNxu8LgSrdvH5CJ3MaV4hXAFSwrsGUQgRNoFV7A))
   * OG Realm mints 1,000,000,000,000 $OGC - ([Solscan](https://solscan.io/tx/5LfaL3g25Ke4zCceunRCvj55XRUfVqTV3K5BfwyjbHRJ6d57bWzs9cF9Diey4cavJcw9HTWVbeFcnccjodaWh1ZK))
-  * OG Realm mints 1,000,000,000,000,000 $OGF - ([Solscan](https://solscan.io/tx/hhkKT1dSdf1HXiZphY1QGY39E9sxTaDY9szTJ1X2UMKLb365LzC6gdaihup7RP6veAFJt1pwFQLuT8ziyQarYY8))\
+  * OG Realm mints 1,000,000,000,000,000 $OGF - ([Solscan](https://solscan.io/tx/hhkKT1dSdf1HXiZphY1QGY39E9sxTaDY9szTJ1X2UMKLb365LzC6gdaihup7RP6veAFJt1pwFQLuT8ziyQarYY8))
+
+</details>
+
+
+
+* 07/05/24 - [Tokens](constructs/tokens/) are minted
+  * OG Realm mints 1 $OGR - ([Solscan](https://solscan.io/tx/52Pu6sohtqfpjYWqHgUADKKbbcJ93nJ853vBqjx3FyvGemhwL8fH91jWWCmTts1ncQVsy64UbeWQpPGbMjycoBpN))\
 
 * 07/06/24 - [OG Bank](institutions/og-bank.md) is established
 * 07/06/24 - OG Bank wallet is funded - ([Solscan](https://solscan.io/tx/3pqsyiYmyaGcA2zuYbZsfov9XWwyCyc9ogY349dcX4RzPkbhCKzWENdjJoNyKkTLKB5ApmMBfvv59aERb2pG5t43))
