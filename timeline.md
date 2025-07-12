@@ -183,8 +183,6 @@ description: An extensive order of the Realm's milestones
 
 </details>
 
-## March, 2025
-
 ## May 2025
 
 <details>
