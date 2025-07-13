@@ -10,7 +10,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Realm is founded</summary>
+<summary>Realm is founded.<br>Mad OG harnesses the energy of the real world to open a portal into a place of infinite blockspace that we now know as the Realm of OGs.</summary>
 
 * 01/01/24 - [Realm of OGs](power/realm-of-ogs.md) is founded
 * 03/18/24 - [Discord](https://discord.gg/ogrealm) is created
@@ -19,7 +19,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Tokens are minted</summary>
+<summary>Tokens are minted.<br>In order to facilitate the mechanics of all activity to be had within the Realm, Mad OG divided the entire value of the Realm into 6 tokens.</summary>
 
 * 07/05/24 - OG Realm wallet is funded - ([Solscan](https://solscan.io/tx/4Kwmo2fd7wcciTNmQKuSmyhQUGceVk6SvMhL41QVRtxeJ7p69jvfxurMn79aPTCPNzF4i5MbJDvhsrcGre5pzdJE))
 * 07/05/24 - OG Realm tokens are minted
@@ -34,7 +34,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>OG Bank is established</summary>
+<summary>OG Bank is established.<br>The first of the Realm's Institutions to be established, OG Bank is tasked with the duty of protecting the Realm's value by safeguarding nearly all of the Realm tokens.</summary>
 
 * 07/06/24 - OG Bank wallet is funded - ([Solscan](https://solscan.io/tx/3pqsyiYmyaGcA2zuYbZsfov9XWwyCyc9ogY349dcX4RzPkbhCKzWENdjJoNyKkTLKB5ApmMBfvv59aERb2pG5t43))
 * 07/06/24 - OG Bank wallet receives Realm tokens
@@ -49,7 +49,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>OG Lab is established</summary>
+<summary>OG Lab is established.<br>A relatively unknown and mysterious new Institution appears as OG Bank transfers the Realm's OG Alchemy ($OGA) token to OG Lab.</summary>
 
 * 07/06/24 - OG Lab wallet is funded - ([Solscan](https://solscan.io/tx/2rX7UiDBs66fzuenoQFb95js6S7yKSib9ub8ZFiN4FPzb7df1e8XDszwyynKgSsm6Cy3q1MZQmHFEi8vWHAExfcx))
 * 07/06/24 - OG Bank transfers 70% $OGA to OG Lab - ([Solscan](https://solscan.io/tx/2dSNQkLGfqroubWXJwH32CUwsQ7Yav1ejF6F2u8YaMvHnebDfYFGVZL9ySLnKfPWE8ATMjUcoVjYRuJSjNLadp3c))
@@ -58,7 +58,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Realm Pools are created</summary>
+<summary>Realm Pools are created.<br>OG Bank integrates a framework for the entire token-physics of the Realm by bonding the 6 tokens to eachother permanently, unifying the tokens and establishing the hierarchy.</summary>
 
 * 07/07/24 - Realm Pools are created
   * OG Bank adds 10% $OGR and 10% $OGM to $OGR-$OGM LP - ([Solscan](https://solscan.io/tx/4HwgLeanrXZM2L9SqhZsAiNsEwfmhnRogTXY42goDNVZrxLWPVrQKWCXCWQYHTgo9GNh3SaJTnhgiaMHBraeEUZ))
@@ -78,7 +78,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Eternal Pools are created</summary>
+<summary>Eternal Pools are created.<br>OG Bank connects the Realm's ecosystem to the real world by bonding 3 of the Realm tokens to outer-world assets, forging links and pathways to traditional value.</summary>
 
 * 07/30/24 - $OGG-SOL LP
   * OG Bank adds 10% $OGG and SOL to $OGG-SOL LP - ([Solscan](https://solscan.io/tx/254bwRuhuyhX6Zn1QBejtVb1hwaZSKwK3LUxFUhy24bXYaUbQMMjU8nq3G7whqYKystMVN6cERiuKJRQeHLKzGxK))
@@ -95,7 +95,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>OG Mine is established</summary>
+<summary>OG Mine is established.<br>The first of its kind, OG Mine is given the sole duty of fairly distributing the scarce reserves of the Realm, OG Gold ($OGG), and begins emissions.</summary>
 
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
 * 07/25/24 - OG Bank transfers 60% $OGG to OG Mine - ([Solscan](https://solscan.io/tx/48YauWagRUPG6PH1VLvnnAeMTAV1M4h6dhzvXjphQJZFPJPpMwv6R4CzPdiN1YD7PSDpc9eq3FQBh9yXWKy8mDA6))
@@ -108,7 +108,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>OG Reserve is established</summary>
+<summary>OG Reserve is established.<br>Built to empower OGs within the Realm to secure and safeguard their hard-earned $OGG within OG Reserve, yielding them OG Coin ($OGC) for their stake.</summary>
 
 * 11/18/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
 * 11/18/24 - OG Bank transfers 70% OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
@@ -120,7 +120,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Willy the Prophet emerges</summary>
+<summary>Willy the Prophet emerges.<br>Acquiring a sizable portion of the OG Gold ($OGG) supply, information about this figure and possible role in the Realm remains unknown.</summary>
 
 * 11/21/24 - Willy the Prophet wallet is funded - ([Solscan](https://solscan.io/tx/3V561D4eMEv4TkNCPQKdSKKUZt493sMXGAzVvicprrD2pnSyxWTQWEmtJmL37hgug72viontcUxayS3eEsw8BxVw))
 
@@ -130,7 +130,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Sanctioned Pools are created</summary>
+<summary>Sanctioned Pools are created.<br>OG Lab optimizes the Realm tokens' flow inside and outside of the Realm's ecosystem by establishing native liquidity for all remaining pools.</summary>
 
 * 12/15/24 - Sanctioned Pools are created
   * OG Lab adds $OGR and SOL to $OGR-SOL LP - ([Solscan 1](https://solscan.io/tx/cUDMLJVw7yhobGKRsmaTeSYeQ2HfbWnzpVmuPPKxK3Zi58SCZkJ1aTTkuH3BczdGxRFwfxhKgTFD91rQ6o2H1gT), [Solscan 2](https://solscan.io/tx/VeRxPdYwRkXysE3Zykc1pUujUrZZ3dF1gdy9ETZGhqXDbQQTXFjL4oXE5EFDog2x7PF5RVQ2jtyZDbCZarDcJaL))
@@ -143,7 +143,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>OG Lab purchases $OGG</summary>
+<summary>OG Lab purchases $OGG.<br>Continuing to showcase its diverse capabilities within the Realm's balance of power, OG Lab acquires a significant portion of the OG Gold ($OGG) supply.</summary>
 
 * 12/16/24 - OG Lab market purchases 5% (50m) $OGG - ([Solscan](https://solscan.io/tx/2LGjvoNSpnAG8rT641H2eT8x4gkfNNc16axvFuFz4HYMgUbR7mz5dsSjNg3kEXK8dAVMEJkjXVwiTHGqeVL2hbM4))
 
@@ -151,7 +151,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Realm Docs are published</summary>
+<summary>Realm Docs are published.<br>Casting the Realm in light and clarity, detailed Docs for the Realm arrived, democratizing information, wisdom, and choice for all OGs within.</summary>
 
 * 12/21/24 - [Docs](broken-reference) are published
 
@@ -161,7 +161,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Discord community expands</summary>
+<summary>Discord community expands.<br>Further democratizing the Realm's access to new OGs as the Pre-OG Era waned, the walls of the Realm's Discord were opened for all.</summary>
 
 * 01/06/25 - [Discord](https://discord.gg/ogrealm) is opened to public
 
@@ -169,7 +169,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Fees in $OGC introduced</summary>
+<summary>Fees in $OGC introduced.<br>Marking a significant moment in the Realm's development, OG Coin ($OGC) becomes the official unit of exchange, powering all of the Realm's exchange.</summary>
 
 * 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled
 
@@ -177,7 +177,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Artificial Intelligence is integrated</summary>
+<summary>Artificial Intelligence is integrated.<br>Complexities of the Realm's information and balance spur an effort to help simplify the tools and guidance available to OGs old and new.</summary>
 
 * 05/23/25 - [Knowledge Base](constructs/knowledge-base.md) launched
 * 05/26/25 - Jester (NPC) launched
@@ -186,7 +186,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Live token price integration</summary>
+<summary>Live token price integration.<br>Emerging as a new critical data point with the Realm for all players and entities, live market data around the Realm's tokens is integrated.</summary>
 
 * 06/16/25 - Discord Price Bots launched
 
@@ -194,7 +194,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Willy the Degen emerges</summary>
+<summary>Willy the Degen emerges.<br>Another unknown figure emerges with minimal activity.</summary>
 
 * 07/07/25 - Willy the Degen wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
 
@@ -202,7 +202,7 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>OG Lottery is established</summary>
+<summary>OG Lottery is established.<br>The Realm's new high-stakes Institution arrives to test the primal urges of OGs, as OG Lottery begins releasing and burning OG Fool ($OGF).</summary>
 
 * 03/05/25 - OG Lottery wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
 * 03/05/25 - OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))
