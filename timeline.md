@@ -111,10 +111,11 @@ description: An extensive order of the Realm's milestones
 <summary>OG Reserve is established.<br>Built to empower OGs within the Realm to secure and safeguard their hard-earned $OGG within OG Reserve, yielding them OG Coin ($OGC) for their stake.</summary>
 
 * 11/18/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
-* 11/18/24 - OG Bank transfers 70% OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
+* 11/18/24 - OG Bank transfers 70% $OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
 * 11/19/24 - OG Reserve wallet loads 70% $OGC to OG Reserve program - ([Solscan](https://solscan.io/tx/Hfg7D5XC2WHtSCPU8atHxT4JSubWp1fgbS49phwdkMCivtrFgcswb3LEKpZn2ywXwfVXQAF6wVeEgdfjv1RnHTY))
 * 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
+* ???????? - [Repurchase Program](constructs/repurchase-programs.md) is launched
 
 </details>
 
@@ -154,6 +155,22 @@ description: An extensive order of the Realm's milestones
 <summary>Realm Docs are published.<br>Casting the Realm in light and clarity, detailed Docs for the Realm arrived, democratizing information, wisdom, and choice for all OGs within.</summary>
 
 * 12/21/24 - [Docs](broken-reference) are published
+
+</details>
+
+<details>
+
+<summary>OG Lottery is established.<br>Clouded in degeneracy, OG Lottery opens its doors to allow OGs to bid for an ever-increasing portion of $OGF, which begins to both emit and burn this supply.</summary>
+
+* ???????? - OG Lottery wallet is funded - (???)
+
+- ???????? - OG Bank transfers 90% $OGF to OG Lottery - (???)
+
+* ???????? - OG Lottery wallet loads 90% $OGF to OG Lottery program - (???)
+
+- ???????? - [$OGF](constructs/tokens/usdogf-og-fool.md) emissions begin
+
+* ???????? - [Repurchase Program](constructs/repurchase-programs.md) is launched
 
 </details>
 
