@@ -31,7 +31,7 @@ OG Lottery emits a constantly increasing amount of [$OGF](../constructs/tokens/u
 OGs can bid for $OGF each epoch by visiting OG Lottery:
 
 {% hint style="success" %}
-[https://lottery.ogrealm.xyz](https://lottery.ogrealm.xyz/) \[coming soon]
+[https://lottery.ogrealm.xyz](https://lottery.ogrealm.xyz/)
 {% endhint %}
 
 ### Lottery Fees
