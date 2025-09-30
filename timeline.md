@@ -115,7 +115,7 @@ description: An extensive order of the Realm's milestones
 * 11/19/24 - OG Reserve wallet loads 70% $OGC to OG Reserve program - ([Solscan](https://solscan.io/tx/Hfg7D5XC2WHtSCPU8atHxT4JSubWp1fgbS49phwdkMCivtrFgcswb3LEKpZn2ywXwfVXQAF6wVeEgdfjv1RnHTY))
 * 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
-* ???????? - [Repurchase Program](constructs/repurchase-programs.md) is launched
+* 09/30/25 - [Repurchase Program](constructs/repurchase-programs.md) is launched
 
 </details>
 
@@ -155,22 +155,6 @@ description: An extensive order of the Realm's milestones
 <summary>Realm Docs are published.<br>Casting the Realm in light and clarity, detailed Docs for the Realm arrived, democratizing information, wisdom, and choice for all OGs within.</summary>
 
 * 12/21/24 - [Docs](broken-reference) are published
-
-</details>
-
-<details>
-
-<summary>OG Lottery is established.<br>Clouded in degeneracy, OG Lottery opens its doors to allow OGs to bid for an ever-increasing portion of $OGF, which begins to both emit and burn this supply.</summary>
-
-* ???????? - OG Lottery wallet is funded - (???)
-
-- ???????? - OG Bank transfers 90% $OGF to OG Lottery - (???)
-
-* ???????? - OG Lottery wallet loads 90% $OGF to OG Lottery program - (???)
-
-- ???????? - [$OGF](constructs/tokens/usdogf-og-fool.md) emissions begin
-
-* ???????? - [Repurchase Program](constructs/repurchase-programs.md) is launched
 
 </details>
 
@@ -222,7 +206,13 @@ description: An extensive order of the Realm's milestones
 <summary>OG Lottery is established.<br>The Realm's new high-stakes Institution arrives to test the primal urges of OGs, as OG Lottery begins releasing and burning OG Fool ($OGF).</summary>
 
 * 03/05/25 - OG Lottery wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
-* 03/05/25 - OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))
-* 07/15/25 - [OG Lottery](institutions/og-lottery.md) is established \[tentative]
+
+- 03/05/25 - OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))
+
+* 09/09/25 - OG Lottery wallet loads 80% $OGF to OG Lottery program - ([Solscan](https://solscan.io/tx/3ztndtSm993yFKRcEzMGVMGEiS8hitLQgtGmcHD8woixF81MMcjoC9bEuuEWawWitVuvoqXE9mgNksWTERGMsCRc))
+
+- 09/10/25 - [$OGF](constructs/tokens/usdogf-og-fool.md) emissions begin
+
+* 10/01/25 - [Repurchase Program](constructs/repurchase-programs.md) is launched
 
 </details>
