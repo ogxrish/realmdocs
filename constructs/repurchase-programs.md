@@ -6,7 +6,7 @@ description: Repurchase Programs of the Realm of OGs
 
 ## On-chain Programs
 
-The Repurchase Programs are on-chain programs deployed on Solana mainnet by the [Institutions](broken-reference) to serve as a balancing mechanism for the flow of [tokens](tokens/), which inevitably accelerates over the Realm's lifespan.
+The Repurchase Programs are on-chain scripts deployed on Solana mainnet by the [Institutions](broken-reference) to serve as a balancing mechanism for the flow of [tokens](tokens/), which inevitably accelerates over the Realm's lifespan.
 
 ## Program Actions
 
