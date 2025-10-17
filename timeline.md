@@ -139,6 +139,12 @@ description: An extensive order of the Realm's milestones
   * OG Lab adds $OGA and SOL to $OGA-SOL LP - ([Solscan 1](https://solscan.io/tx/5jdYVEaGygoibbmTod1CXucoicD68GK27F1KYMLLduGjse5Q1AvjkXahAxDytoUud211gQEeEVSDasRBw7L1DLTs), [Solscan 2](https://solscan.io/tx/xpckpDzyYBwPY4PeB1Vr2rQNWB9B8WNmPDEJKHEaadhXmVazagLCCGHpKtyKkb7GogCKedyDUHt7oHn8iPmyj1g), [Solscan 3](https://solscan.io/tx/22tdv39wRroxsUFYh8PT6tm54iSgjd2M5C68qJvEynd2smSTdPXikEX6i6xVwpUDEsG755xBq5wZvHVA9HHTfDtv))
   * OG Lab adds $OGC and SOL to $OGC-SOL LP - ([Solscan 1](https://solscan.io/tx/4ZUZ8aXfpatfxjqzotyz5ggdbSTaZp71hsPNM9Z8su92TocBJdPjs5FyDpfYnaMeqaXCvnyCzDZk7UBrHiVK5yjV), [Solscan 2](https://solscan.io/tx/4YSJKuM2grLBdJg9uy675pQmVS9Rz4e5Q6sAMJiTtd3DzwEr2M6X9kUn8zva23rxhAoeRdM8BdqSR3CnH4WZ6FBd))
   * OG Lab adds $OGF and SOL to $OGF-SOL LP - ([Solscan](https://solscan.io/tx/RYqqWYNXeNePq2AdNZ6DYBZpcXYuvCJmu47ktmqdxbTae7ACDSuHzVB4V2iHyiVbk7GMBHpBHvNFAvnnqjs3SiA))
+* 10/17/25 - V2 Sanctioned Pools are created
+  * OG Lab adds $OGR and SOL to $OGR-SOL LP - ([Solscan](https://solscan.io/tx/2owQZmB971PixxbiawWjSLW4kTERZh9z7zCWQKVr5KjG4JJ2bMXuCv9V2bGxaDqXbeogRfqTfB3Ak7eQqEsuYakK))
+  * OG Lab adds $OGM and SOL to $OGM-SOL LP - ([Solscan](https://solscan.io/tx/3gpcjjJFRpTDsHcJqL1cfEDaV6YgSrTY8RvJPVHWhxf4eMaCQigcASujU9N73pyQyigo2Z3ETDV58Vsf8UJY2PTS))
+  * OG Lab adds $OGA and SOL to $OGA-SOL LP - ([Solscan](https://solscan.io/tx/4SgrDPbdrR1HdtKxj6tN2uH8BfwmRfMubMTvgcojpnCowqfhiffRNXH4wuXDnYUuBTEJNopRopj2HCawCaghRDJV))
+  * OG Lab adds $OGC and SOL to $OGC-SOL LP - ([Solscan](https://solscan.io/tx/sLZUw8KKXAALdmpZCfevNdHUXkA3ZUpw5h8Uy5MjQG8VK8dUYu3ESn7GPkyJyBMZ9UAxN7rcueb33C9bC2XMus1))
+  * OG Lab adds $OGF and SOL to $OGF-SOL LP - ([Solscan](https://solscan.io/tx/4USnVSnD51sQ8Xm2vvgd3qdHGP46BHj6JVAMBG5gUWYHv3GjVhtNzP7om9UbnTWUTm6L2ceXnqPhtoc7tQ2b4kM4))
 
 </details>
 
