@@ -33,6 +33,10 @@ Although [OG Lab](../../institutions/og-lab.md) has provided an initial level of
 
 <table><thead><tr><th width="156">Pair</th><th width="83">Fee</th><th>Meteora</th></tr></thead><tbody><tr><td>$OGR-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/96LQ9z7NjykLDdsFrkbymut3su5JY5L55ieEeh1xHzgX">Link</a></td></tr><tr><td>$OGM-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/5fSVjPiCSCbDctyaXWssvHsZ8Bt6TYjWft14SRsYMmcp">Link</a></td></tr><tr><td>$OGA-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/CzpyCn19FPtyQEXvDJTNQq1r87DWmm3RViPEek1Edmns">Link</a></td></tr><tr><td>$OGC-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/AYQALsNFanvfqm6FPbziEj1mc8bP5izPDJWwHmrAJ6Xb">Link</a></td></tr><tr><td>$OGF-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/Hbb5mZ5ufp83WrAkCZ4rcMxQc4LrNUFEe7BD9b8ffmec">Link</a></td></tr></tbody></table>
 
+With the introduction of Meteora DAMM V2 architecture, [OG Lab](../../institutions/og-lab.md) supplied an additional layer of liquidity via V2 Sanctioned Pools. Similarly structured in every way to the initial Sanctioned Pools other than Fee Rate (1%), OGs may find either of the the older or newer versions preferable.
+
+<table><thead><tr><th width="156">Pair</th><th width="83">Fee</th><th>Meteora</th></tr></thead><tbody><tr><td>$OGR-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/yegohwPMtdpVGfvDeF2zimr5oq8HL9yqdnMkue7Cb9j">Link</a></td></tr><tr><td>$OGM-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/352w2ZChf2jLWSADY1xTbiW1tLPQUYLEU3hpT1WCzBSP">Link</a></td></tr><tr><td>$OGA-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/4NRjYbjc8ZaUkEyJ3Q12uHxtBsuVHqdam5qHCxLFVtRc">Link</a></td></tr><tr><td>$OGC-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/CRTdWx8e8cY8C5y4FkmGzQLC6y3v9tQoXxG6yTHjryzx">Link</a></td></tr><tr><td>$OGF-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/4rBSz7V5n7KWYmw4bthL5uoLCu9qdeTc25gaTxnuDips">Link</a></td></tr></tbody></table>
+
 {% hint style="danger" %}
 This liquidity is not permanent and can be removed by OG Lab at any time.&#x20;
 {% endhint %}
