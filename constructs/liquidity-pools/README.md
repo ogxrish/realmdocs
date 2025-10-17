@@ -43,7 +43,7 @@ All Regulated Pools are built on Meteora on Solana.
 {% endhint %}
 
 {% hint style="info" %}
-&#x20;All Regulated Pools are set at a 0.25% fee rate.
+&#x20;All Regulated Pools are set at a 0.25% fee rate, with the exception of V2 Sanctioned Pools at a 1% fee rate.
 {% endhint %}
 
 ## OG Participation
