@@ -66,8 +66,7 @@ description: An extensive order of the Realm's milestones
   * OG Bank adds 10% $OGA and 10% $OGG to $OGA-$OGG LP - ([Solscan](https://solscan.io/tx/4dsQEx27uzBSS5kxRTRMS9e5vLzKDSicihC4rEMN9Se5SCytxuFoKKSfcH6YcXdGfFpVT8sYvLmpcnt8B5ePRDhF))
   * OG Bank adds 10% $OGG and 10% $OGC to $OGG-$OGC LP - ([Solscan](https://solscan.io/tx/2NwXMfSZdbmv5DL7P9qsSqjokjG5aZ1TBSHD66ak7etGFgwwa63SktefhK6VrsRPFuiZg7bcGhESiynDSZHBpvvR))
   * OG Bank adds 10% $OGC and 10% $OGF to $OGC-$OGF LP - ([Solscan](https://solscan.io/tx/3s8qfc4kp14EgeGofxhESDj8uAu78wMu2edRXHoKnfAte6g6dbqRyXkfFfok8M554s6Pi25jZHB1fzJxvepTcEEE))
-
-- 07/25/24 - Realm Pools are permanently locked
+* 07/25/24 - Realm Pools are permanently locked
   * OG Bank burns $OGR-$OGM LP tokens - ([Solscan](https://solscan.io/tx/2m8D9C7YT55G9dsn4BtxfGjGhVDAoYp2LvZUQFJJpts5bzvRV2Uduz5MVpXAYdagj1w1NaXHJb2qAyDEdvQV4CfB))
   * OG Bank burns $OGM-$OGA LP tokens - ([Solscan](https://solscan.io/tx/4YuHU1ERLMBDnGtdGzGdJDxJywG6Xd9fm5pdDbhG7a8x2GDK8GXvWe3gXgm4EFfzkDfRJQ86zAEuFECJ9bXJ9ehr))
   * OG Bank burns $OGA-$OGG LP tokens - ([Solscan](https://solscan.io/tx/642U9quVnXrizMJNvcZXGvaNjDNf23vVF74Hxmew1n51odAou9CtmyTzFMntDKQtvjz6p3jTjA2ooKgwDUtkf6YB))
@@ -86,8 +85,7 @@ description: An extensive order of the Realm's milestones
 * 08/12/24 - $OGC-USDC LP
   * OG Bank adds 10% $OGC and USDC to $OGC-USDC LP - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
   * OG Bank burns $OGC-USDC LP tokens - ([Solscan](https://solscan.io/tx/5siarwqtJPpxxAKoPzk29otU9CCpN1WQ4vAqMPsRtFT5D4ZVv7EXqPpmhkU5FgaDtYURwjnENMY6asUHp7DQ9Hez))
-
-- 12/08/24 - $OGM-cbBTC LP
+* 12/08/24 - $OGM-cbBTC LP
   * OG Bank adds 10% $OGM and cbBTC to $OGM-cbBTC LP - ([Solscan](https://solscan.io/tx/2BnSeA7YnNW9jaRPf2TDfnXgjWGYHuJoLbePybQTAsqKt7wvjHfijgBYGvdkpFoVPzmNuEEx7siisZCenm7ihSBu))
   * OG Bank burns $OGM-cbBTC LP tokens - ([Solscan](https://solscan.io/tx/5wW6FZCuE5Vu4W7eTvq92LGmfLbGk4PUUzGycMwSfpasEnMT1sgHZBen7MJkpebp4dwi3UuSyX7BVovynY37HTzL))
 
@@ -99,10 +97,9 @@ description: An extensive order of the Realm's milestones
 
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
 * 07/25/24 - OG Bank transfers 60% $OGG to OG Mine - ([Solscan](https://solscan.io/tx/48YauWagRUPG6PH1VLvnnAeMTAV1M4h6dhzvXjphQJZFPJPpMwv6R4CzPdiN1YD7PSDpc9eq3FQBh9yXWKy8mDA6))
-
-- 07/31/24 - OG Mine wallet loads 60% $OGG to OG Mine program - ([Solscan 1](https://solscan.io/tx/42WyxW6CMGUzjjv3XWAUFBzBJFiFJCPGJFa2V4shynExB2WgD4PruMj58k4L6CTHwJoBVLovoJhfYbgxPDc4CiVh), [Solscan 2](https://solscan.io/tx/4Hpj2NomgSW4oAsgf3w1svVxzrgvLUbqT7ENSicxQMufPG4cF8jQk7fe8AH6KTN3M1skpVCLZc6c4CMZinVt6aEu))
-- 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
-- 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
+* 07/31/24 - OG Mine wallet loads 60% $OGG to OG Mine program - ([Solscan 1](https://solscan.io/tx/42WyxW6CMGUzjjv3XWAUFBzBJFiFJCPGJFa2V4shynExB2WgD4PruMj58k4L6CTHwJoBVLovoJhfYbgxPDc4CiVh), [Solscan 2](https://solscan.io/tx/4Hpj2NomgSW4oAsgf3w1svVxzrgvLUbqT7ENSicxQMufPG4cF8jQk7fe8AH6KTN3M1skpVCLZc6c4CMZinVt6aEu))
+* 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
+* 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
 
 </details>
 
@@ -116,16 +113,6 @@ description: An extensive order of the Realm's milestones
 * 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
 * 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
 * 09/30/25 - [Repurchase Program](constructs/repurchase-programs.md) is launched
-
-</details>
-
-<details>
-
-<summary>Willy the Prophet emerges.<br>Acquiring a sizable portion of the OG Gold ($OGG) supply, information about this figure and possible role in the Realm remains unknown.</summary>
-
-* 11/21/24 - Willy the Prophet wallet is funded - ([Solscan](https://solscan.io/tx/3V561D4eMEv4TkNCPQKdSKKUZt493sMXGAzVvicprrD2pnSyxWTQWEmtJmL37hgug72viontcUxayS3eEsw8BxVw))
-
-- 11/21/24 - Willy the Prophet market purchases 6.66% (66.6m) $OGG - ([Solscan 1](https://solscan.io/tx/5WEhPAzj6AAmzkVipqWsY4J2hthGjanYAYdx4WBT3HTNUXuKLvPunXvNhWFjMRTjBpZgfYsFkj1zWqXwvWP8oSnv), [Solscan 2](https://solscan.io/tx/Nes1b8qwKLPBYkQnC3X4WsUj1SQUpNz1Sd42JiVmaNdzjUyWFnjmrstqptmf8frYstRNcx1hUH6TMTwrF2rKgY8))
 
 </details>
 
@@ -160,7 +147,7 @@ description: An extensive order of the Realm's milestones
 
 <summary>Realm Docs are published.<br>Casting the Realm in light and clarity, detailed Docs for the Realm arrived, democratizing information, wisdom, and choice for all OGs within.</summary>
 
-* 12/21/24 - [Docs](broken-reference) are published
+* 12/21/24 - [Docs](/broken/pages/BD3RxyViPJ6ZXHIh4LMu) are published
 
 </details>
 
@@ -201,24 +188,13 @@ description: An extensive order of the Realm's milestones
 
 <details>
 
-<summary>Willy the Degen emerges.<br>Another unknown figure emerges with minimal activity.</summary>
-
-* 07/07/25 - Willy the Degen wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
-
-</details>
-
-<details>
-
 <summary>OG Lottery is established.<br>The Realm's new high-stakes Institution arrives to test the primal urges of OGs, as OG Lottery begins releasing and burning OG Fool ($OGF).</summary>
 
 * 03/05/25 - OG Lottery wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
-
-- 03/05/25 - OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))
-
+* 03/05/25 - OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))
 * 09/09/25 - OG Lottery wallet loads 80% $OGF to OG Lottery program - ([Solscan](https://solscan.io/tx/3ztndtSm993yFKRcEzMGVMGEiS8hitLQgtGmcHD8woixF81MMcjoC9bEuuEWawWitVuvoqXE9mgNksWTERGMsCRc))
-
-- 09/10/25 - [$OGF](constructs/tokens/usdogf-og-fool.md) emissions begin
-
+* 09/10/25 - [$OGF](constructs/tokens/usdogf-og-fool.md) emissions begin
 * 10/01/25 - [Repurchase Program](constructs/repurchase-programs.md) is launched
+* 11/17/25 - OG Lottery is rebooted with bug fixes
 
 </details>
