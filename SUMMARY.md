@@ -18,9 +18,12 @@
 
 * [🏦 OG Bank](institutions/og-bank.md)
 * [🕋 OG Lab](institutions/og-lab.md)
-* [🛕 OG Mine](institutions/og-mine.md)
-* [🏛️ OG Reserve](institutions/og-reserve.md)
-* [🎰 OG Lottery](institutions/og-lottery.md)
+
+## Games
+
+* [🛕 OG Mine](games/og-mine.md)
+* [🏛️ OG Reserve](games/og-reserve.md)
+* [🎰 OG Lottery](games/og-lottery.md)
 
 ## Constructs
 

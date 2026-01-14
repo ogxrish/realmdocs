@@ -20,5 +20,5 @@ Mad OG continues to rule the Realm, communicating directly to OGs only behind th
 
 ## Creation
 
-To create a world capable of a true balance between abundance and order, Mad OG established [Tokens](../constructs/tokens/) and [Institutions](broken-reference).
+To create a world capable of a true balance between abundance and order, Mad OG established [Tokens](../constructs/tokens/) and [Institutions](/broken/pages/BfVMfJiBaGoeEBpWw3Yx).
 

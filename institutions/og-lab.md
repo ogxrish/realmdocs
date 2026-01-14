@@ -8,7 +8,7 @@ description: Agency of the Realm of OGs
 
 ## Created by Mad OG
 
-[Mad OG](../power/mad-og.md) created OG Lab, a mysterious institution for which very little is known. It is believed that OG Lab's purpose is broad yet significant. Though veiled in mystery and obscurity, it is not wise to question Mad OG’s intentions when erecting the [Institutions](broken-reference) of the Realm.
+[Mad OG](../power/mad-og.md) created OG Lab, a mysterious institution for which very little is known. It is believed that OG Lab's purpose is broad yet significant. Though veiled in mystery and obscurity, it is not wise to question Mad OG’s intentions when erecting the [Institutions](/broken/pages/BfVMfJiBaGoeEBpWw3Yx) of the Realm.
 
 ## Initial Funding
 

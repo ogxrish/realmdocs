@@ -16,7 +16,7 @@ Early during any process, minimal inputs are required to complete a particular t
 
 Within the Realm, work (or a measure of inputs) is most often measured in terms of transaction cost.
 
-Each Institution operates on the same Difficulty Curve as applied to fees. [OG Mine](../institutions/og-mine.md), [OG Reserve](../institutions/og-reserve.md), and [OG Lottery](../institutions/og-lottery.md) all charge fees to interact with them in order to receive the appropriate tokens.
+Each Institution operates on the same Difficulty Curve as applied to fees. [OG Mine](../games/og-mine.md), [OG Reserve](../games/og-reserve.md), and [OG Lottery](../games/og-lottery.md) all charge fees to interact with them in order to receive the appropriate tokens.
 
 Fees for these Institutions increase (during each [Epoch](epochs.md) for OG Mine and OG Reserve, and upon each Pool reset for OG Lottery) according the to Difficulty Curve. The effect of this is for the operation cost of each Institution to increase with each subsequent Player.
 

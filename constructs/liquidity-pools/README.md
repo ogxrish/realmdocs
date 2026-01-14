@@ -16,7 +16,7 @@ Liquidity Pools are a key component to the functioning of Realm tokens across th
 
 ## Regulated Pools
 
-The [Institutions](broken-reference) of the Realm host a structured framework of liquidity pools to ensure the proper environment exists for the Realm to be both liquid and scarce. Although OGs will likely continue creating new and unique token pairs, the Realm officially recognizes only 3 types of Regulated Pools:
+The [Institutions](/broken/pages/BfVMfJiBaGoeEBpWw3Yx) of the Realm host a structured framework of liquidity pools to ensure the proper environment exists for the Realm to be both liquid and scarce. Although OGs will likely continue creating new and unique token pairs, the Realm officially recognizes only 3 types of Regulated Pools:
 
 {% stepper %}
 {% step %}

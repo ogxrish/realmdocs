@@ -38,7 +38,7 @@ The primary purpose of OG Bank was, and is, to supply tokens and establish liqui
 
 Upon creation, 70% of [$OGA](../constructs/tokens/usdoga-og-alchemy.md) was distributed to [OG Lab](og-lab.md).
 
-Upon creation, 60% of [$OGG](../constructs/tokens/usdogg-og-gold.md) was distributed to [OG Mine](og-mine.md).
+Upon creation, 60% of [$OGG](../constructs/tokens/usdogg-og-gold.md) was distributed to [OG Mine](../games/og-mine.md).
 
 ## Source of Income
 
@@ -50,6 +50,6 @@ OGs are encouraged to participate alongside OG Bank's locked liquidity to share 
 
 ## Creation of OG Reserve
 
-OG Bank created [OG Reserve](og-reserve.md) to allow for the emergence of [$OGC](../constructs/tokens/usdogc-og-coin.md), the common value of the Realm.&#x20;
+OG Bank created [OG Reserve](../games/og-reserve.md) to allow for the emergence of [$OGC](../constructs/tokens/usdogc-og-coin.md), the common value of the Realm.&#x20;
 
-Although not a source of income for OG Bank, [OG Reserve](og-reserve.md) allows the value of [$OGG](../constructs/tokens/usdogg-og-gold.md) to flow organically into the value of [$OGC](../constructs/tokens/usdogc-og-coin.md), benefiting the expansion of the Realm holder base and the overall distribution of the Realm's value.
+Although not a source of income for OG Bank, [OG Reserve](../games/og-reserve.md) allows the value of [$OGG](../constructs/tokens/usdogg-og-gold.md) to flow organically into the value of [$OGC](../constructs/tokens/usdogc-og-coin.md), benefiting the expansion of the Realm holder base and the overall distribution of the Realm's value.

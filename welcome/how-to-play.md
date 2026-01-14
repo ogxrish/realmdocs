@@ -10,11 +10,11 @@ Playing the game comes in many forms, as the Realm is a vast space with various 
 
 ## Mining
 
-In the Realm of OGs, mining activities present a lucrative opportunity for OGs to capitalize on their resources. Through [OG Mine](../institutions/og-mine.md), seasoned players can engage by mining to extract valuable materials and resources crucial for crafting and trading. By leveraging their expertise and strategic insights, OGs can optimize their mining operations to ensure maximum outputs with minimal effort. The OG Mine offers a structured and rewarding environment, allowing OGs to continually refine their mining techniques and emerge as leading contributors within the Realm's bustling economy.
+In the Realm of OGs, mining activities present a lucrative opportunity for OGs to capitalize on their resources. Through [OG Mine](../games/og-mine.md), seasoned players can engage by mining to extract valuable materials and resources crucial for crafting and trading. By leveraging their expertise and strategic insights, OGs can optimize their mining operations to ensure maximum outputs with minimal effort. The OG Mine offers a structured and rewarding environment, allowing OGs to continually refine their mining techniques and emerge as leading contributors within the Realm's bustling economy.
 
 ## Reserving
 
-In the vast expanse of the Realm, players can choose to engage with [OG Reserve](../institutions/og-reserve.md) as a strategic avenue for farming [$OGC](../constructs/tokens/usdogc-og-coin.md) yield. By allocating their resources ([$OGG](../constructs/tokens/usdogg-og-gold.md)) to OG Reserve, players can earn returns on their holdings while actively participating in the economy. This mechanism provides a stable and passive income stream, rewarding players for their involvement and commitment. OG Reserve is designed to incentivize long-term participation, allowing players to benefit from accrued yields based on their contributions and the overall growth of the Realm's ecosystem.
+In the vast expanse of the Realm, players can choose to engage with [OG Reserve](../games/og-reserve.md) as a strategic avenue for farming [$OGC](../constructs/tokens/usdogc-og-coin.md) yield. By allocating their resources ([$OGG](../constructs/tokens/usdogg-og-gold.md)) to OG Reserve, players can earn returns on their holdings while actively participating in the economy. This mechanism provides a stable and passive income stream, rewarding players for their involvement and commitment. OG Reserve is designed to incentivize long-term participation, allowing players to benefit from accrued yields based on their contributions and the overall growth of the Realm's ecosystem.
 
 ## Holding
 

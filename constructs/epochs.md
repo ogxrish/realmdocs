@@ -12,7 +12,7 @@ Each Epoch lasts for a total of 24 hours and resets at 00:00 UTC.
 
 ## Institition Cycles
 
-All Institutions responsible for token emissions ([OG Mine](../institutions/og-mine.md), [OG Reserve](../institutions/og-reserve.md), and [OG Lottery](../institutions/og-lottery.md)) operate cyclically by the Epoch mechanism.&#x20;
+All Institutions responsible for token emissions ([OG Mine](../games/og-mine.md), [OG Reserve](../games/og-reserve.md), and [OG Lottery](../games/og-lottery.md)) operate cyclically by the Epoch mechanism.&#x20;
 
 At the turn of each Epoch, token emissions, rewards, and claims are processed based on the previous 24-hour activity.
 

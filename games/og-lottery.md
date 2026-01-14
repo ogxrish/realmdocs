@@ -8,13 +8,13 @@ description: Gamemaster of the Realm of OGs
 
 ## Established by OG Bank
 
-[OG Bank](og-bank.md) created OG Lottery to dispense [$OGF](../constructs/tokens/usdogf-og-fool.md), the primal degeneracy of the Realm.
+[OG Bank](../institutions/og-bank.md) created OG Lottery to dispense [$OGF](../constructs/tokens/usdogf-og-fool.md), the primal degeneracy of the Realm.
 
 OG Lottery was created to be accessible to all OGs.
 
 ## Initial Funding
 
-[OG Bank](og-bank.md) securely transferred nearly all of the remaining supply of [$OGF](../constructs/tokens/usdogf-og-fool.md) to OG Lottery (800T $OGF) for distribution within the Realm, except for 10% of $OGF, which OG Bank retained.
+[OG Bank](../institutions/og-bank.md) securely transferred nearly all of the remaining supply of [$OGF](../constructs/tokens/usdogf-og-fool.md) to OG Lottery (800T $OGF) for distribution within the Realm, except for 10% of $OGF, which OG Bank retained.
 
 ## Lottery Operations
 

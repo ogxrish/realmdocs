@@ -14,7 +14,7 @@ OG Mine was created to be accessible to all OGs.
 
 ## Initial Funding
 
-[OG Bank](og-bank.md) securely transferred nearly all the remaining supply of [$OGG](../constructs/tokens/usdogg-og-gold.md) to OG Mine (600m $OGG) for distribution within the Realm, except for 10% of $OGG, which OG Bank retained.
+[OG Bank](../institutions/og-bank.md) securely transferred nearly all the remaining supply of [$OGG](../constructs/tokens/usdogg-og-gold.md) to OG Mine (600m $OGG) for distribution within the Realm, except for 10% of $OGG, which OG Bank retained.
 
 ## Mine Operations
 

@@ -6,13 +6,13 @@ description: Allocator of the Realm of OGs
 
 ## Established by OG Bank
 
-[OG Bank](og-bank.md) created OG Reserve to allow for the emergence of [$OGC](../constructs/tokens/usdogc-og-coin.md), the common value of the Realm.
+[OG Bank](../institutions/og-bank.md) created OG Reserve to allow for the emergence of [$OGC](../constructs/tokens/usdogc-og-coin.md), the common value of the Realm.
 
 OG Reserve was created to be accessible to all OGs, although ownership of some portion of [$OGG](../constructs/tokens/usdogg-og-gold.md) is required to participate.
 
 ## Initial Funding
 
-[OG Bank](og-bank.md) securely transferred all of the remaining supply of [$OGC](../constructs/tokens/usdogc-og-coin.md) (70%) to OG Reserve for distribution within the Realm.
+[OG Bank](../institutions/og-bank.md) securely transferred all of the remaining supply of [$OGC](../constructs/tokens/usdogc-og-coin.md) (70%) to OG Reserve for distribution within the Realm.
 
 ## Reserve Operations
 
