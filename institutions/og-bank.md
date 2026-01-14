@@ -12,7 +12,7 @@ Upon creating the 6-token structure for the Realm, [Mad OG](../power/mad-og.md) 
 
 ## Initial Funding
 
-The total supply of all 6 [tokens](../constructs/tokens/) was securely transferred to OG Bank, with the exception of [$OGR](../constructs/tokens/usdogr-og-realm.md), of which Mad OG retained 90%, safeguarding nearly all of the power of the Realm.
+The total supply of all 6 [tokens](../physics/tokens/) was securely transferred to OG Bank, with the exception of [$OGR](../physics/tokens/usdogr-og-realm.md), of which Mad OG retained 90%, safeguarding nearly all of the power of the Realm.
 
 ## Realm Liquidity
 
@@ -24,11 +24,11 @@ OG Bank's first step was to form liquidity bonds to establish connections betwee
 
 #### Realm Pools
 
-[Realm Pools](../constructs/liquidity-pools/realm-pools.md) were created to host specific bonds between the tokens. Significant portions of each token's supply (10%) are attributed to each Realm connection. These Realm pools also provide a direction of movement between the tokens.
+[Realm Pools](../physics/liquidity-pools/realm-pools.md) were created to host specific bonds between the tokens. Significant portions of each token's supply (10%) are attributed to each Realm connection. These Realm pools also provide a direction of movement between the tokens.
 
 #### Eternal Pools
 
-Additionally, OG Bank created [Eternal Pools](../constructs/liquidity-pools/eternal-pools.md) to pair tokens with outside world liquidity, giving the Realm's token structure several connections to otherworldly oracles.
+Additionally, OG Bank created [Eternal Pools](../physics/liquidity-pools/eternal-pools.md) to pair tokens with outside world liquidity, giving the Realm's token structure several connections to otherworldly oracles.
 
 ### Safekeeping
 
@@ -36,13 +36,13 @@ The primary purpose of OG Bank was, and is, to supply tokens and establish liqui
 
 ### Distribution
 
-Upon creation, 70% of [$OGA](../constructs/tokens/usdoga-og-alchemy.md) was distributed to [OG Lab](og-lab.md).
+Upon creation, 70% of [$OGA](../physics/tokens/usdoga-og-alchemy.md) was distributed to [OG Lab](og-lab.md).
 
-Upon creation, 60% of [$OGG](../constructs/tokens/usdogg-og-gold.md) was distributed to [OG Mine](../games/og-mine.md).
+Upon creation, 60% of [$OGG](../physics/tokens/usdogg-og-gold.md) was distributed to [OG Mine](../games/og-mine.md).
 
 ## Source of Income
 
-Although 100% of OG Bank's hosted liquidity is permanently locked, OG Bank does earn fees on the locked liquidity in [Realm Pools](../constructs/liquidity-pools/realm-pools.md) and [Eternal Pools](../constructs/liquidity-pools/eternal-pools.md).
+Although 100% of OG Bank's hosted liquidity is permanently locked, OG Bank does earn fees on the locked liquidity in [Realm Pools](../physics/liquidity-pools/realm-pools.md) and [Eternal Pools](../physics/liquidity-pools/eternal-pools.md).
 
 Since the token balances of these pools represent the core flow of value across the Realm and are so large relative to the overall token supply, volume in the Realm directly translates to fee revenue for OG Bank.
 
@@ -50,6 +50,6 @@ OGs are encouraged to participate alongside OG Bank's locked liquidity to share 
 
 ## Creation of OG Reserve
 
-OG Bank created [OG Reserve](../games/og-reserve.md) to allow for the emergence of [$OGC](../constructs/tokens/usdogc-og-coin.md), the common value of the Realm.&#x20;
+OG Bank created [OG Reserve](../games/og-reserve.md) to allow for the emergence of [$OGC](../physics/tokens/usdogc-og-coin.md), the common value of the Realm.&#x20;
 
-Although not a source of income for OG Bank, [OG Reserve](../games/og-reserve.md) allows the value of [$OGG](../constructs/tokens/usdogg-og-gold.md) to flow organically into the value of [$OGC](../constructs/tokens/usdogc-og-coin.md), benefiting the expansion of the Realm holder base and the overall distribution of the Realm's value.
+Although not a source of income for OG Bank, [OG Reserve](../games/og-reserve.md) allows the value of [$OGG](../physics/tokens/usdogg-og-gold.md) to flow organically into the value of [$OGC](../physics/tokens/usdogc-og-coin.md), benefiting the expansion of the Realm holder base and the overall distribution of the Realm's value.

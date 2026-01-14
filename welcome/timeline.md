@@ -4,7 +4,7 @@ description: An extensive order of the Realm's milestones
 
 # ⏳ Timeline
 
-<figure><img src=".gitbook/assets/timeline.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/timeline.png" alt=""><figcaption></figcaption></figure>
 
 ## Pre-OG
 
@@ -12,7 +12,7 @@ description: An extensive order of the Realm's milestones
 
 <summary>Realm is founded.<br>Mad OG harnesses the energy of the real world to open a portal into a place of infinite blockspace that we now know as the Realm of OGs.</summary>
 
-* 01/01/24 - [Realm of OGs](power/realm-of-ogs.md) is founded
+* 01/01/24 - [Realm of OGs](../) is founded
 * 03/18/24 - [Discord](https://discord.gg/ogrealm) is created
 
 </details>
@@ -98,8 +98,8 @@ description: An extensive order of the Realm's milestones
 * 07/25/24 - OG Mine wallet is funded - ([Solscan](https://solscan.io/tx/Ad4r1wQ8mmBP1HwvGMr7arXcYhiTwJBDdvRtX2xTvQknGUuHCTqksmxUnuybBeZ7H6d9UPZmYrcr4QUPhebUzCL))
 * 07/25/24 - OG Bank transfers 60% $OGG to OG Mine - ([Solscan](https://solscan.io/tx/48YauWagRUPG6PH1VLvnnAeMTAV1M4h6dhzvXjphQJZFPJPpMwv6R4CzPdiN1YD7PSDpc9eq3FQBh9yXWKy8mDA6))
 * 07/31/24 - OG Mine wallet loads 60% $OGG to OG Mine program - ([Solscan 1](https://solscan.io/tx/42WyxW6CMGUzjjv3XWAUFBzBJFiFJCPGJFa2V4shynExB2WgD4PruMj58k4L6CTHwJoBVLovoJhfYbgxPDc4CiVh), [Solscan 2](https://solscan.io/tx/4Hpj2NomgSW4oAsgf3w1svVxzrgvLUbqT7ENSicxQMufPG4cF8jQk7fe8AH6KTN3M1skpVCLZc6c4CMZinVt6aEu))
-* 07/31/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) emissions begin
-* 11/28/24 - [Repurchase Program](constructs/repurchase-programs.md) is launched
+* 07/31/24 - [$OGG](../physics/tokens/usdogg-og-gold.md) emissions begin
+* 11/28/24 - [Repurchase Program](../constructs/repurchase-programs.md) is launched
 
 </details>
 
@@ -110,9 +110,9 @@ description: An extensive order of the Realm's milestones
 * 11/18/24 - OG Reserve wallet is funded - ([Solscan](https://solscan.io/tx/4xANoD3jqdzjSuTMjqfZkBNvejxWzrj3xhWkKo6VzjuZs4GVa2iRYFKSGLm43N2Qe3PsJxLWQ3gBmtrFZvuQzNzN))
 * 11/18/24 - OG Bank transfers 70% $OGC to OG Reserve - ([Solscan](https://solscan.io/tx/7BP7n4VaCUxwuGk62Zz1ZhPVPTaEJhNnVVoiDzN1UAJmT575efm6ZZd3iGrmeG8WswpiJjNYwsiCCpf7sHZA3uL))
 * 11/19/24 - OG Reserve wallet loads 70% $OGC to OG Reserve program - ([Solscan](https://solscan.io/tx/Hfg7D5XC2WHtSCPU8atHxT4JSubWp1fgbS49phwdkMCivtrFgcswb3LEKpZn2ywXwfVXQAF6wVeEgdfjv1RnHTY))
-* 11/19/24 - [$OGG](constructs/tokens/usdogg-og-gold.md) locking begins
-* 11/20/24 - [$OGC](constructs/tokens/usdogc-og-coin.md) emissions begin
-* 09/30/25 - [Repurchase Program](constructs/repurchase-programs.md) is launched
+* 11/19/24 - [$OGG](../physics/tokens/usdogg-og-gold.md) locking begins
+* 11/20/24 - [$OGC](../physics/tokens/usdogc-og-coin.md) emissions begin
+* 09/30/25 - [Repurchase Program](../constructs/repurchase-programs.md) is launched
 
 </details>
 
@@ -165,7 +165,7 @@ description: An extensive order of the Realm's milestones
 
 <summary>Fees in $OGC introduced.<br>Marking a significant moment in the Realm's development, OG Coin ($OGC) becomes the official unit of exchange, powering all of the Realm's exchange.</summary>
 
-* 02/03/25 - [$OGC](constructs/tokens/usdogc-og-coin.md) for fees enabled
+* 02/03/25 - [$OGC](../physics/tokens/usdogc-og-coin.md) for fees enabled
 
 </details>
 
@@ -173,7 +173,7 @@ description: An extensive order of the Realm's milestones
 
 <summary>Artificial Intelligence is integrated.<br>Complexities of the Realm's information and balance spur an effort to help simplify the tools and guidance available to OGs old and new.</summary>
 
-* 05/23/25 - [Knowledge Base](constructs/knowledge-base.md) launched
+* 05/23/25 - [Knowledge Base](../constructs/knowledge-base.md) launched
 * 05/26/25 - Jester (NPC) launched
 
 </details>
@@ -193,8 +193,8 @@ description: An extensive order of the Realm's milestones
 * 03/05/25 - OG Lottery wallet is funded - ([Solscan](https://solscan.io/tx/2iwb3cVcmchuYHayb4139aYsyySB2fnP2gbqKz8i8fRKTfMZSeQ52eYbXqmpBvpSa7Y5Nx1qLEjVWE42VfTRXnyE))
 * 03/05/25 - OG Bank transfers 80% $OGF to OG Lottery - ([Solscan 1](https://solscan.io/tx/3YTyK5hKouuiG9guroeABoRAcbvvg2w9pWvbhYsdrn1nrr79E5ZfZpQxaC7rqEK3FbM55ACF9AsmsN3SMUdxLoJJ), [Solscan 2](https://solscan.io/tx/5qG5cxcJmiovXmhVhq1BWApm6ByywWPQ3XJv1anDUTZNAD5WcuPmjcfcY5qkvV8EbZH4siPgJ9YCZ6y1GmY28cqq))
 * 09/09/25 - OG Lottery wallet loads 80% $OGF to OG Lottery program - ([Solscan](https://solscan.io/tx/3ztndtSm993yFKRcEzMGVMGEiS8hitLQgtGmcHD8woixF81MMcjoC9bEuuEWawWitVuvoqXE9mgNksWTERGMsCRc))
-* 09/10/25 - [$OGF](constructs/tokens/usdogf-og-fool.md) emissions begin
-* 10/01/25 - [Repurchase Program](constructs/repurchase-programs.md) is launched
+* 09/10/25 - [$OGF](../physics/tokens/usdogf-og-fool.md) emissions begin
+* 10/01/25 - [Repurchase Program](../constructs/repurchase-programs.md) is launched
 * 11/17/25 - OG Lottery is rebooted with bug fixes
 
 </details>

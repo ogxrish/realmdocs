@@ -6,14 +6,14 @@ description: Repurchase Programs of the Realm of OGs
 
 ## On-chain Programs
 
-The Repurchase Programs are on-chain scripts deployed on Solana mainnet by the [Institutions](/broken/pages/BfVMfJiBaGoeEBpWw3Yx) to serve as a balancing mechanism for the flow of [tokens](tokens/), which inevitably accelerates over the Realm's lifespan.
+The Repurchase Programs are on-chain scripts deployed on Solana mainnet by the [Institutions](/broken/pages/BfVMfJiBaGoeEBpWw3Yx) to serve as a balancing mechanism for the flow of [tokens](../physics/tokens/), which inevitably accelerates over the Realm's lifespan.
 
 ## Program Actions
 
 There are 3 separate Repurchase Programs that regularly and automatically:
 
-1. Take possession of SOL and [$OGC](tokens/usdogc-og-coin.md) collected from [Mining fees](../games/og-mine.md#mining-fees), [Reserve fees](../games/og-reserve.md#reserve-fees), and [Lottery fees](../games/og-lottery.md#lottery-fees) generated each epoch by [OG Mine](../games/og-mine.md), [OG Reserve](../games/og-reserve.md), and [OG Lottery](../games/og-lottery.md), respectively.
-2. Use collected fees to repurchase [$OGG](tokens/usdogg-og-gold.md), [$OGC](tokens/usdogc-og-coin.md), and [$OGF](tokens/usdogf-og-fool.md) from the open market (via Jupiter routing).
+1. Take possession of SOL and [$OGC](../physics/tokens/usdogc-og-coin.md) collected from [Mining fees](../games/og-mine.md#mining-fees), [Reserve fees](../games/og-reserve.md#reserve-fees), and [Lottery fees](../games/og-lottery.md#lottery-fees) generated each epoch by [OG Mine](../games/og-mine.md), [OG Reserve](../games/og-reserve.md), and [OG Lottery](../games/og-lottery.md), respectively.
+2. Use collected fees to repurchase [$OGG](../physics/tokens/usdogg-og-gold.md), [$OGC](../physics/tokens/usdogc-og-coin.md), and [$OGF](../physics/tokens/usdogf-og-fool.md) from the open market (via Jupiter routing).
 3. Deposits repurchased $OGG and $OGC into OG Mine and OG Reserve, respectively.
 4. Burns repurchased $OGF.
 
@@ -23,13 +23,13 @@ There are 3 separate Repurchase Programs that regularly and automatically:
 
 ## Impact on the Realm
 
-The overall effect of the Repurchase Programs is to assist in supporting a floor value for [$OGG](tokens/usdogg-og-gold.md), [$OGC](tokens/usdogc-og-coin.md), and [$OGF](tokens/usdogf-og-fool.md) by continuously repurchasing these tokens from the open market.&#x20;
+The overall effect of the Repurchase Programs is to assist in supporting a floor value for [$OGG](../physics/tokens/usdogg-og-gold.md), [$OGC](../physics/tokens/usdogc-og-coin.md), and [$OGF](../physics/tokens/usdogf-og-fool.md) by continuously repurchasing these tokens from the open market.&#x20;
 
 Further, this action adds to the daily $OGG epoch reward emitted by the [OG Mine](../games/og-mine.md) and extends the tail-end of epochs that the [OG Reserve](../games/og-reserve.md) may continue to emit $OGC.&#x20;
 
 However, it does not increase emissions or extend the life of[ OG Lottery](../games/og-lottery.md). Instead, the Repurchase Program serves to simply decrease excess market supply of $OGF.
 
-Since repurchases of $OGG, $OGC, and $OGF are routed through Jupiter, the most efficient liquidity path is selected. Therefore, regular repurchases of $OGG, $OGC, and $OGF result in a constant rebalancing of the Realm's [tokens](tokens/), especially for the Realm's most liquid pair of $OGG-$OGC, and soon to be $OGC-$OGF.
+Since repurchases of $OGG, $OGC, and $OGF are routed through Jupiter, the most efficient liquidity path is selected. Therefore, regular repurchases of $OGG, $OGC, and $OGF result in a constant rebalancing of the Realm's [tokens](../physics/tokens/), especially for the Realm's most liquid pair of $OGG-$OGC, and soon to be $OGC-$OGF.
 
 ## Technical Information
 
