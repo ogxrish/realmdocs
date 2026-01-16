@@ -26,7 +26,7 @@ OG Reserve emits 274m (274,000,000) [$OGC](../physics/tokens/usdogc-og-coin.md) 
 
 ### Reserving $OGG
 
-OGs can earn [$OGC](../physics/tokens/usdogc-og-coin.md) each epoch by visiting OG Reserve:
+OGs can earn [$OGC](../physics/tokens/usdogc-og-coin.md) each epoch by participating in OG Reserve:
 
 {% hint style="success" %}
 [https://reserve.ogrealm.xyz](https://reserve.ogrealm.xyz/)
