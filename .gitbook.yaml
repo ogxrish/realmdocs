@@ -8,7 +8,7 @@ redirects:
   # --- moved sections (v1 path -> v2 file) ---
   welcome/readme: realm/overview.md
   welcome/realm-of-ogs: the-gates.md
-  welcome/how-to-play: paths/index.md
+  welcome/how-to-play: paths/README.md
   welcome/timeline: realm/timeline.md
   institutions/og-bank: power/og-bank.md
   institutions/og-lab: power/og-lab.md

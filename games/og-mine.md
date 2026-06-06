@@ -59,7 +59,7 @@ The Mine looks simple. It is not finished with you:
 * **The fee window** — mining early in the Epoch is structurally discounted; the difference between first and fiftieth is 2,500×
 * **Gold's three lives** — mined Gold can be held (toward [Capital 💰](../society/classes.md)), locked (into the [Reserve](og-reserve.md) for $OGC yield — at the price of its Class weight), or bonded (one third of the [Knight's vow](../society/knighthood.md))
 
-The full strategy layer lives in [Paths of Play](../paths/index.md).
+The full strategy layer lives in [Paths of Play](../paths/README.md).
 
 ## Status & Proof
 

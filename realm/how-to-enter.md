@@ -45,7 +45,7 @@ Classes are granted automatically in Discord based on the liquid holdings of you
 
 ## 6 — Choose Your Path
 
-From here, the Realm opens in every direction: mine the [Mine](../games/og-mine.md), lock into the [Reserve](../games/og-reserve.md), bid the [Lottery](../games/og-lottery.md), work the [pools](../physics/liquidity-pools.md), trade the ladder, or simply hold and watch. The [Paths of Play](../paths/index.md) lay out every mode — from watcher to hard mode.
+From here, the Realm opens in every direction: mine the [Mine](../games/og-mine.md), lock into the [Reserve](../games/og-reserve.md), bid the [Lottery](../games/og-lottery.md), work the [pools](../physics/liquidity-pools.md), trade the ladder, or simply hold and watch. The [Paths of Play](../paths/README.md) lay out every mode — from watcher to hard mode.
 
 {% hint style="info" %}
 It is advised to learn the game, and watch, before entering. The game is already underway.

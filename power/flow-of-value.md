@@ -41,7 +41,7 @@ Crown → endowments → engines → players → fees → repurchase → market 
 <figure><img src="../.gitbook/assets/token-flow.svg" alt="The Flow of Value — value never leaves the Realm; it circulates"><figcaption>The Flow of Value — value never leaves the Realm; it circulates</figcaption></figure>
 
 {% hint style="success" %}
-Choose your junction. The [Paths of Play](../paths/index.md) name them all.
+Choose your junction. The [Paths of Play](../paths/README.md) name them all.
 {% endhint %}
 
 ---
