@@ -20,7 +20,7 @@ All three legs trade on the open market through the [Regulated Pools](../physics
 
 ## What It Buys
 
-Standing in the Mad OG's court. **$OGA allocations** — the Alchemy thread, served first to Knights as the [UEC 904 event](../era-2/alchemy-airdrop.md) approaches. A seat at the **Roundtable**. **Priority commissions** when the Realm has work. And the rank's arithmetic itself: one of at most **1,000 seats that can ever exist** — *11 are taken.*
+Standing in the Mad OG's court. **$OGA allocations** — the Alchemy thread, served first to Knights as the [UEC 904 event](../era-2/alchemy-airdrop.md) approaches. A seat at the **Roundtable**. **Priority commissions** when the Realm has work. And the rank's arithmetic itself: one of at most **1,000 seats that can ever exist** — and the court today is small (its live size is shown on the [Onchain Status](../canon/onchain-status.md) page).
 
 ## What It Demands
 

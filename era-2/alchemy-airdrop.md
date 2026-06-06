@@ -29,7 +29,7 @@ The allocation's exact formula is sealed, and will be revealed in the Mad OG's t
 The event reshapes the Realm's society in a single day:
 
 * **500,000 $OGA** stands ready in the Airdrop's keeping — the whole of it supplied from the Crown's own [Lab](../power/og-lab.md), which was endowed 80% of the supply, passed this 50% to the Airdrop, and retains 30% (see [The Crown's Weight](../society/classes.md))
-* The [Noble gate](../society/classes.md) is 10,000 $OGA — the Alchemy can mint up to **50 new Noble seats** into a class that has seen exactly one
+* The [Noble gate](../society/classes.md) is 10,000 $OGA — the Alchemy can mint up to **50 new Noble seats** into a class that, by the scarcity of its sworn token, has barely been populated
 * [Knights](../society/knighthood.md) carry $OGA allocations among their standing perks
 
 ## The Calendar to UEC 904
