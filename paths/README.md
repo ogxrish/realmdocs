@@ -2,7 +2,7 @@
 description: The manual that never ends — it only gets harder
 ---
 
-# Paths of Play
+# 🕹️ Paths of Play
 
 The Realm is a vast space with various moving parts — and by design, an unbound number of opportunities for OGs to find their knack. There is no single way to play. There are **modes**, and they ascend.
 

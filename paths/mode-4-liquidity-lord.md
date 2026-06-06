@@ -2,7 +2,7 @@
 description: Earn beside the Crown's locked floors
 ---
 
-# Mode 4 · The Liquidity Lord
+# 💸 Mode 4 · The Liquidity Lord
 
 The Realm runs on its [pools](../physics/liquidity-pools.md) — and the pools pay those who fill them. Mode 4 is capital put to work in the Realm's plumbing itself.
 

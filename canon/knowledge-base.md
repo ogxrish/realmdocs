@@ -2,7 +2,7 @@
 description: Knowledge Base of the Realm of OGs
 ---
 
-# Knowledge Base
+# 🧠 Knowledge Base
 
 ## Information Database
 

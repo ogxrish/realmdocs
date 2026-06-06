@@ -2,7 +2,7 @@
 description: The Creation Era, sealed — and the era that has begun
 ---
 
-# The Story So Far
+# 📜 The Story So Far
 
 ## Before the Realm
 

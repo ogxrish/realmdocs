@@ -4,6 +4,8 @@ description: The common value of the Realm
 
 # $OGC — OG Coin
 
+<figure><img src="../../.gitbook/assets/Realms_Coins_Coin.png" alt="$OGC token"><figcaption>The official $OGC token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
+
 ## Purpose
 
 $OGC is the common value of the Realm — its coin of the commons. One trillion units, flowing outward from the [OG Reserve](../../games/og-reserve.md) at a constant 274,000,000 per Epoch, into the hands of those who secure the Realm's Gold.

@@ -2,7 +2,7 @@
 description: Tokens of the Realm of OGs
 ---
 
-# Tokens
+# 🪙 Tokens
 
 The Realm of OGs features an extensive token ecosystem that drives the mechanics of the Realm, establishing relative values for different aspects of the ecosystem.
 

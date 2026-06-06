@@ -4,6 +4,8 @@ description: The core elements of the Realm
 
 # $OGM — OG Matter
 
+<figure><img src="../../.gitbook/assets/Realms_Coins_Matter.png" alt="$OGM token"><figcaption>The official $OGM token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
+
 ## Purpose
 
 $OGM is the core elements of the Realm — the matter from which its physical forms are made. One thousand units, second only to $OGR in scarcity, it is the quiet giant of the ladder: rarely moving, mostly held, permanently bonded at its edges to the Realm above and the Alchemy below.

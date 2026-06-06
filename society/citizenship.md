@@ -2,7 +2,7 @@
 description: The OG floor — and what the Realm owes its own
 ---
 
-# Citizenship
+# 💎 Citizenship
 
 ## The Floor
 

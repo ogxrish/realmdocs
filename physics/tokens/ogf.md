@@ -4,6 +4,8 @@ description: The primal degeneracy of the Realm
 
 # $OGF — OG Fool
 
+<figure><img src="../../.gitbook/assets/Realms_Coins_Fool.png" alt="$OGF token"><figcaption>The official $OGF token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
+
 ## Purpose
 
 $OGF is the primal degeneracy of the Realm. One quadrillion units of luck, fate, and foolish gambles — the token of the [OG Lottery](../../games/og-lottery.md), where bids accumulate into pools and the Final Bid takes the lion's share.

@@ -72,6 +72,8 @@ The Realm's power is great: We have seen Kings become Fools, and Fools become Ki
 
 Now move along. The game is already underway.
 
+> **The Realm beyond these gates:** [Website](https://ogrealm.com) · [Discord](https://discord.gg/ogrealm) · [X](https://x.com/ogrealm_) · the Games ([Mine](https://mine.ogrealm.xyz) · [Reserve](https://reserve.ogrealm.xyz) · [Lottery](https://lottery.ogrealm.xyz)) — full directory: [The Realm Beyond](canon/the-realm-beyond.md).
+
 ---
 
 *Inscribed by the Mad OG at the founding of the Realm. Reaffirmed unchanged at the dawn of Era II, UEC 700.*

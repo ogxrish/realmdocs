@@ -2,7 +2,7 @@
 description: The daily disciplines — mine, lock, allocate, bid
 ---
 
-# Mode 3 · The Player
+# 🎮 Mode 3 · The Player
 
 The games are where the Realm's value enters circulation — and where daily discipline compounds into fortune. This is the mode of the practitioner.
 

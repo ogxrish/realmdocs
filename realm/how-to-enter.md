@@ -2,7 +2,7 @@
 description: From the outer gates to your first Epoch
 ---
 
-# How to Enter
+# 🧭 How to Enter
 
 No one is required to enter the Realm of OGs. But anyone who wishes to test their fate, certainly can. This is the way through the gates.
 
@@ -42,6 +42,8 @@ An OG born at UEC 26 was present at the very first emission. An OG who enters to
 * **X — the Realm's storyline:** [@ogrealm\_](https://x.com/ogrealm_)
 
 Classes are granted automatically in Discord based on the liquid holdings of your verified wallet.
+
+Every door of the Realm — website, games, and halls — is listed in [The Realm Beyond](../canon/the-realm-beyond.md).
 
 ## 6 — Choose Your Path
 

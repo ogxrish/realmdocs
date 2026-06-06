@@ -2,7 +2,7 @@
 description: An extensive order of the Realm's milestones — every claim linked to the chain
 ---
 
-# Timeline
+# 🗓️ Timeline
 
 The Realm's history is not asserted. It is proven. Every milestone below carries its transaction — click through to the chain and verify with your own eyes.
 

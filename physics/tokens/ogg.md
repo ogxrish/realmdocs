@@ -4,6 +4,8 @@ description: The scarce reserves of the Realm
 
 # $OGG — OG Gold
 
+<figure><img src="../../.gitbook/assets/Realms_Coins_Gold.png" alt="$OGG token"><figcaption>The official $OGG token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
+
 ## Purpose
 
 $OGG is the scarce reserves of the Realm — its gold. One billion units, of which 60% was entrusted to a single duty: the [OG Mine](../../games/og-mine.md), which emits 1% of its remaining balance every Epoch, forever — a flow that grows scarcer with every passing day and never reaches zero.

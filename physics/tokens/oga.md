@@ -4,6 +4,8 @@ description: The dark science of the Realm
 
 # $OGA — OG Alchemy
 
+<figure><img src="../../.gitbook/assets/Realms_Coins_Alchemy.png" alt="$OGA token"><figcaption>The official $OGA token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
+
 ## Purpose
 
 $OGA is the dark science of the Realm — one million units of transformation. It is the token of [OG Lab](../../power/og-lab.md), the shadow institution that received 70% of its supply on the second day of the Realm's existence and has worked it quietly ever since.

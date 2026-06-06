@@ -2,7 +2,7 @@
 description: Build onto the Realm — Law 5 protects you
 ---
 
-# Mode ∞ · The Builder
+# 🏗️ Mode ∞ · The Builder
 
 At any level of participation, OGs may build onto the Realm's existing framework — programs, apps, bots, and side market economies. This is the open-ended mode: its ceiling is your own.
 

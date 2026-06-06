@@ -2,7 +2,7 @@
 description: Epoch 700 begins the next.
 ---
 
-# The Unnamed Era
+# 🌑 The Unnamed Era
 
 ## The Seal and the Silence
 

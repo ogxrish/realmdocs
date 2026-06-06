@@ -39,9 +39,13 @@ Every other game in the Realm ends on the clock. The Lottery ends on silence. To
 
 OG Lottery emits a constantly increasing amount of $OGF each Epoch: **1B in its first Epoch, adding another 1B every Epoch after** — 1B, 2B, 3B, onward. More of the supply circulates as time goes on. Against its endowment, the flood runs approximately **1,265 Epochs (about 3.5 years)**.
 
-A Pool's prize is the **sum of every Epoch's allotment it spanned** — long-lived Pools grow monstrous.
+{% hint style="warning" %}
+**The emission never resets.** Unlike the difficulty curve — which resets to zero when a Pool closes on a Final Bid — the per-Epoch $OGF emission is a **single, global accumulator that climbs forever**. When a Pool closes and a new one opens, the next Epoch does **not** restart at 1B: it inherits the running level and keeps adding 1B. Pool 1 may emit its early billions; Pool 2 opens wherever Pool 1 left off, already emitting tens of billions per Epoch. The clock of the Lottery never rewinds.
+{% endhint %}
 
-<figure><img src="../.gitbook/assets/emission-lottery.svg" alt="OG Lottery — +1B $OGF more every Epoch; the longer a Pool lives, the heavier the prize"><figcaption>OG Lottery — +1B $OGF more every Epoch; the longer a Pool lives, the heavier the prize</figcaption></figure>
+A Pool's prize is the **sum of every Epoch's allotment it spanned** — and because the per-Epoch emission only ever grows, **later Pools are born richer than earlier ones**. Long-lived Pools grow monstrous.
+
+<figure><img src="../.gitbook/assets/emission-lottery.svg" alt="OG Lottery — the emission never resets; 9 completed Pools and today marked"><figcaption>OG Lottery — the emission climbs forever; the 9 completed Pools and today's point on the curve are marked (as on the Mine and Reserve)</figcaption></figure>
 
 ### Difficulty
 

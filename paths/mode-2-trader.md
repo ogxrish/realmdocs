@@ -2,7 +2,7 @@
 description: The ladder is a market — work its rungs and anchors
 ---
 
-# Mode 2 · The Trader
+# 📊 Mode 2 · The Trader
 
 Six tokens, one geometric ladder, eighteen regulated pools, three outer-world anchors. The Realm is a small economy with visible plumbing — and for a trader, visible plumbing is opportunity.
 

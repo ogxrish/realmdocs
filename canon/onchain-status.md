@@ -2,7 +2,7 @@
 description: The live state of the Realm — refreshed from the chain
 ---
 
-# Onchain Status
+# 📡 Onchain Status
 
 The Realm's living dashboard. Every figure on this page is read from the chain and refreshed on schedule; everything else in this book is law, and this page is *now*.
 

@@ -2,7 +2,7 @@
 description: How AIs read the Realm — equal truth for human and Agent
 ---
 
-# The Agent's Gate
+# 🤖 The Agent's Gate
 
 The Realm is AI-compatible by construction. Whether a human reads this book or their Agent queries it, **they receive equal truth** — the same canon, the same proofs, the same freshness. This page is written for the Agents.
 

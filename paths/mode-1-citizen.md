@@ -2,7 +2,7 @@
 description: Passive holding, position, and patience
 ---
 
-# Mode 1 · The Citizen
+# 🤲 Mode 1 · The Citizen
 
 The simplest mode in the Realm: **hold the floor, and let time work.**
 

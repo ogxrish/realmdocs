@@ -2,7 +2,7 @@
 description: Observe from outside — the Realm rewards those who learned it first
 ---
 
-# Mode 0 · The Watcher
+# 👁️ Mode 0 · The Watcher
 
 It is advised to learn the game, and watch, before entering. Mode 0 is that advice, taken seriously — and it costs nothing.
 

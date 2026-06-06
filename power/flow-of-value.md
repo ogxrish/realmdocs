@@ -2,7 +2,7 @@
 description: How value moves through the Realm — the full circuit
 ---
 
-# The Flow of Value
+# 🔄 The Flow of Value
 
 Every economy is a circuit. The Realm's is fully visible. This page traces one loop of it — from the Crown's vaults to your wallet and back through the market.
 

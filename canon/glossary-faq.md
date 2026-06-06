@@ -2,7 +2,7 @@
 description: The Realm's vocabulary, and the questions every new OG asks
 ---
 
-# Glossary & FAQ
+# 📖 Glossary & FAQ
 
 ## Glossary
 

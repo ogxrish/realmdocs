@@ -2,7 +2,7 @@
 description: Entering at a higher level — the bond, the court, the loop
 ---
 
-# 🛡️ The Knight's Path
+# ⚔️ The Knight's Path
 
 Most OGs climb. Some arrive. The Knight's Path is the Realm's door for those who come with capital and intent — and choose to enter at the level of the court.
 

@@ -2,7 +2,7 @@
 description: Liquidity Pools of the Realm of OGs
 ---
 
-# Liquidity Pools
+# 💧 Liquidity Pools
 
 ## Protocol Liquidity
 

@@ -2,7 +2,7 @@
 description: The named horizon of Era II
 ---
 
-# What Comes
+# 🔭 What Comes
 
 New games are still being introduced, and tokens are still being emitted. Era II (UEC 700–1399) carries a horizon of named milestones — and room for what has not been announced at all.
 

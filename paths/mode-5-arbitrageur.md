@@ -2,7 +2,7 @@
 description: Hard mode — cross-engine plays, timing, and game theory
 ---
 
-# Mode 5 · The Arbitrageur
+# ♟️ Mode 5 · The Arbitrageur
 
 Hard mode. Everything below is legal, onchain, and already being done by someone quieter than you. The Realm teaches the mechanics of success transparently — mastery is in the execution.
 
