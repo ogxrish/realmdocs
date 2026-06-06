@@ -10,14 +10,14 @@ The Realm of OGs features an extensive token ecosystem that drives the mechanics
 
 Each of the 6 official tokens carries a unique purpose and works in conjunction with all other tokens. Their supplies ascend a thousandfold at every rung — one supply ladder, six forms of value:
 
-| Token | Name | Essence | Supply | Decimals |
-| --- | --- | --- | --- | --- |
-| [$OGR](tokens/ogr.md) | OG Realm | The **total power** of the Realm | **1** | 9 |
-| [$OGM](tokens/ogm.md) | OG Matter | The **core elements** of the Realm | **1K** | 9 |
-| [$OGA](tokens/oga.md) | OG Alchemy | The **dark science** of the Realm | **1M** | 9 |
-| [$OGG](tokens/ogg.md) | OG Gold | The **scarce reserves** of the Realm | **1B** | 9 |
-| [$OGC](tokens/ogc.md) | OG Coin | The **common value** of the Realm | **1T** | 7 |
-| [$OGF](tokens/ogf.md) | OG Fool | The **primal degeneracy** of the Realm | **1Q** | 4 |
+| Coin | Token | Name | Essence | Supply | Decimals |
+| :---: | --- | --- | --- | --- | --- |
+| <img src="../.gitbook/assets/Realms_Coins_Realm.png" alt="" width="44"> | [$OGR](tokens/ogr.md) | OG Realm | The **total power** of the Realm | **1** | 9 |
+| <img src="../.gitbook/assets/Realms_Coins_Matter.png" alt="" width="44"> | [$OGM](tokens/ogm.md) | OG Matter | The **core elements** of the Realm | **1K** | 9 |
+| <img src="../.gitbook/assets/Realms_Coins_Alchemy.png" alt="" width="44"> | [$OGA](tokens/oga.md) | OG Alchemy | The **dark science** of the Realm | **1M** | 9 |
+| <img src="../.gitbook/assets/Realms_Coins_Gold.png" alt="" width="44"> | [$OGG](tokens/ogg.md) | OG Gold | The **scarce reserves** of the Realm | **1B** | 9 |
+| <img src="../.gitbook/assets/Realms_Coins_Coin.png" alt="" width="44"> | [$OGC](tokens/ogc.md) | OG Coin | The **common value** of the Realm | **1T** | 7 |
+| <img src="../.gitbook/assets/Realms_Coins_Fool.png" alt="" width="44"> | [$OGF](tokens/ogf.md) | OG Fool | The **primal degeneracy** of the Realm | **1Q** | 4 |
 
 {% hint style="warning" %}
 All of the value of the Realm is contained within these 6 tokens.

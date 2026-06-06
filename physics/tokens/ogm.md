@@ -2,7 +2,7 @@
 description: The core elements of the Realm
 ---
 
-# $OGM — OG Matter
+# ⚪ $OGM — OG Matter
 
 <figure><img src="../../.gitbook/assets/Realms_Coins_Matter.png" alt="$OGM token"><figcaption>The official $OGM token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
 

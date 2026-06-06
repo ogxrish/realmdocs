@@ -2,7 +2,7 @@
 description: The dark science of the Realm
 ---
 
-# $OGA — OG Alchemy
+# 🔴 $OGA — OG Alchemy
 
 <figure><img src="../../.gitbook/assets/Realms_Coins_Alchemy.png" alt="$OGA token"><figcaption>The official $OGA token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
 

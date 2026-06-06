@@ -45,7 +45,7 @@ OG Lottery emits a constantly increasing amount of $OGF each Epoch: **1B in its 
 
 A Pool's prize is the **sum of every Epoch's allotment it spanned** — and because the per-Epoch emission only ever grows, **later Pools are born richer than earlier ones**. Long-lived Pools grow monstrous.
 
-<figure><img src="../.gitbook/assets/emission-lottery.svg" alt="OG Lottery — the emission never resets; 9 completed Pools and today marked"><figcaption>OG Lottery — the emission climbs forever; the 9 completed Pools and today's point on the curve are marked (as on the Mine and Reserve)</figcaption></figure>
+<figure><img src="../.gitbook/assets/emission-lottery.svg" alt="OG Lottery — the emission never resets; 9 completed Pools and today marked"><figcaption>OG Lottery — the emission climbs forever; its full ~3.5-year life, with the 9 completed Pools and today's point marked — late Pools, born on huge emissions, grow monstrous</figcaption></figure>
 
 ### Difficulty
 

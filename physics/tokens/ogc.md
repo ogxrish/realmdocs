@@ -2,7 +2,7 @@
 description: The common value of the Realm
 ---
 
-# $OGC — OG Coin
+# 🔘 $OGC — OG Coin
 
 <figure><img src="../../.gitbook/assets/Realms_Coins_Coin.png" alt="$OGC token"><figcaption>The official $OGC token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
 

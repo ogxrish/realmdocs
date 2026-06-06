@@ -19,12 +19,12 @@
 ## Physics
 
 * [🪙 Tokens](physics/tokens.md)
-  * [$OGR — OG Realm](physics/tokens/ogr.md)
-  * [$OGM — OG Matter](physics/tokens/ogm.md)
-  * [$OGA — OG Alchemy](physics/tokens/oga.md)
-  * [$OGG — OG Gold](physics/tokens/ogg.md)
-  * [$OGC — OG Coin](physics/tokens/ogc.md)
-  * [$OGF — OG Fool](physics/tokens/ogf.md)
+  * [🟣 $OGR — OG Realm](physics/tokens/ogr.md)
+  * [⚪ $OGM — OG Matter](physics/tokens/ogm.md)
+  * [🔴 $OGA — OG Alchemy](physics/tokens/oga.md)
+  * [🟡 $OGG — OG Gold](physics/tokens/ogg.md)
+  * [🔘 $OGC — OG Coin](physics/tokens/ogc.md)
+  * [🟢 $OGF — OG Fool](physics/tokens/ogf.md)
 * [💧 Liquidity Pools](physics/liquidity-pools.md)
   * [🏰 Realm Pools](physics/liquidity-pools/realm-pools.md)
   * [♾️ Eternal Pools](physics/liquidity-pools/eternal-pools.md)

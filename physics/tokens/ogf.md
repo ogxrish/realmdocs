@@ -2,7 +2,7 @@
 description: The primal degeneracy of the Realm
 ---
 
-# $OGF — OG Fool
+# 🟢 $OGF — OG Fool
 
 <figure><img src="../../.gitbook/assets/Realms_Coins_Fool.png" alt="$OGF token"><figcaption>The official $OGF token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
 

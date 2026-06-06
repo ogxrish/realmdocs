@@ -2,7 +2,7 @@
 description: The total power of the Realm
 ---
 
-# $OGR — OG Realm
+# 🟣 $OGR — OG Realm
 
 <figure><img src="../../.gitbook/assets/Realms_Coins_Realm.png" alt="$OGR token"><figcaption>The official $OGR token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
 

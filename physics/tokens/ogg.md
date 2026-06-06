@@ -2,7 +2,7 @@
 description: The scarce reserves of the Realm
 ---
 
-# $OGG — OG Gold
+# 🟡 $OGG — OG Gold
 
 <figure><img src="../../.gitbook/assets/Realms_Coins_Gold.png" alt="$OGG token"><figcaption>The official $OGG token — verify the mint in the <a href="../../canon/verified-registry.md">Verified Registry</a></figcaption></figure>
 
