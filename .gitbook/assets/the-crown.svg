@@ -1,0 +1,27 @@
+<svg viewBox="0 0 760 420" xmlns="http://www.w3.org/2000/svg" font-family="Georgia,'Times New Roman',serif">
+<rect width="760" height="420" fill="#0E1326"/>
+<text x="380" y="40" text-anchor="middle" fill="#EAECF5" font-size="20" font-weight="bold" letter-spacing="1">THE CROWN</text>
+<text x="380" y="62" text-anchor="middle" fill="#9AA3C0" font-size="12.5" font-style="italic">the sovereign complex — each anchoring a top token at ≥30%</text>
+<!-- Mad OG -->
+<rect x="290" y="92" width="180" height="78" rx="10" fill="#1A1130" stroke="#D4AF37" stroke-width="2"/>
+<text x="380" y="120" text-anchor="middle" fill="#EAECF5" font-size="16" font-weight="bold">🔱 Mad OG</text>
+<text x="380" y="140" text-anchor="middle" fill="#9AA3C0" font-size="11.5">Ruler · the Creator</text>
+<text x="380" y="158" text-anchor="middle" fill="#B96BE0" font-size="11.5">anchors $OGR — retains 90%</text>
+<!-- connectors -->
+<path d="M380 170 L380 200 M380 200 L190 200 L190 232 M380 200 L570 200 L570 232" stroke="#3A4570" stroke-width="1.6" fill="none"/>
+<!-- Bank -->
+<rect x="80" y="232" width="220" height="96" rx="10" fill="#101A2E" stroke="#7C8AA8" stroke-width="2"/>
+<text x="190" y="260" text-anchor="middle" fill="#EAECF5" font-size="15" font-weight="bold">🏦 OG Bank</text>
+<text x="190" y="280" text-anchor="middle" fill="#9AA3C0" font-size="11.5">Permanence · the Protector</text>
+<text x="190" y="298" text-anchor="middle" fill="#9FB0CC" font-size="11.5">anchors $OGM — retains 70%</text>
+<text x="190" y="316" text-anchor="middle" fill="#6B7699" font-size="10.5">holds &amp; bonds the Realm's value</text>
+<!-- Lab -->
+<rect x="460" y="232" width="220" height="96" rx="10" fill="#1A1030" stroke="#8B5CF6" stroke-width="2"/>
+<text x="570" y="260" text-anchor="middle" fill="#EAECF5" font-size="15" font-weight="bold">🕋 OG Lab</text>
+<text x="570" y="280" text-anchor="middle" fill="#9AA3C0" font-size="11.5">Agency · the Operator</text>
+<text x="570" y="298" text-anchor="middle" fill="#B96BE0" font-size="11.5">anchors $OGA — retains 30%</text>
+<text x="570" y="316" text-anchor="middle" fill="#6B7699" font-size="10.5">acts: pools · buys · seeds</text>
+<!-- floor band -->
+<rect x="80" y="356" width="600" height="40" rx="8" fill="#11161f" stroke="#222B49" stroke-width="1"/>
+<text x="380" y="381" text-anchor="middle" fill="#D4AF37" font-size="12" font-style="italic">The 30% floor — the understood weight of control. Not enforced; held all the same.</text>
+</svg>

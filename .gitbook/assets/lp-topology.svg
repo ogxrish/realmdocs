@@ -1,0 +1,37 @@
+<svg viewBox="0 0 760 430" xmlns="http://www.w3.org/2000/svg" font-family="Georgia,'Times New Roman',serif">
+<rect width="760" height="430" fill="#0E1326"/>
+<text x="380" y="38" text-anchor="middle" fill="#EAECF5" font-size="20" font-weight="bold" letter-spacing="1">THE 18 REGULATED POOLS</text>
+<text x="380" y="60" text-anchor="middle" fill="#9AA3C0" font-size="12.5" font-style="italic">the great majority of regulated liquidity is permanently locked</text>
+<!-- Realm pools (locked) -->
+<rect x="40" y="86" width="220" height="150" rx="10" fill="#161d22" stroke="#D4AF37" stroke-width="1.8"/>
+<text x="150" y="112" text-anchor="middle" fill="#D4AF37" font-size="14" font-weight="bold">🏰 Realm · 5</text>
+<text x="150" y="132" text-anchor="middle" fill="#9AA3C0" font-size="10.5">locked forever (burned)</text>
+<text x="150" y="156" text-anchor="middle" fill="#EAECF5" font-size="11">OGR–OGM · OGM–OGA</text>
+<text x="150" y="176" text-anchor="middle" fill="#EAECF5" font-size="11">OGA–OGG · OGG–OGC</text>
+<text x="150" y="196" text-anchor="middle" fill="#EAECF5" font-size="11">OGC–OGF</text>
+<text x="150" y="222" text-anchor="middle" fill="#6B7699" font-size="10">token-to-token ladder bonds</text>
+<!-- Eternal pools (locked) -->
+<rect x="270" y="86" width="220" height="150" rx="10" fill="#101A2E" stroke="#37B6A4" stroke-width="1.8"/>
+<text x="380" y="112" text-anchor="middle" fill="#37B6A4" font-size="14" font-weight="bold">♾️ Eternal · 3</text>
+<text x="380" y="132" text-anchor="middle" fill="#9AA3C0" font-size="10.5">locked forever (burned)</text>
+<text x="380" y="158" text-anchor="middle" fill="#EAECF5" font-size="11.5">OGM – cbBTC</text>
+<text x="380" y="180" text-anchor="middle" fill="#EAECF5" font-size="11.5">OGG – SOL</text>
+<text x="380" y="202" text-anchor="middle" fill="#EAECF5" font-size="11.5">OGC – USDC</text>
+<text x="380" y="224" text-anchor="middle" fill="#6B7699" font-size="10">bonds to the outer world</text>
+<!-- Sanctioned (active) -->
+<rect x="500" y="86" width="220" height="150" rx="10" fill="#1a1030" stroke="#8B5CF6" stroke-width="1.8" stroke-dasharray="6 4"/>
+<text x="610" y="112" text-anchor="middle" fill="#B96BE0" font-size="14" font-weight="bold">🌊 Sanctioned · 10</text>
+<text x="610" y="132" text-anchor="middle" fill="#9AA3C0" font-size="10.5">active · removable by Lab</text>
+<text x="610" y="158" text-anchor="middle" fill="#EAECF5" font-size="11">OGR·OGM·OGA·OGC·OGF</text>
+<text x="610" y="178" text-anchor="middle" fill="#EAECF5" font-size="11">each – SOL</text>
+<text x="610" y="200" text-anchor="middle" fill="#9AA3C0" font-size="10.5">V1 (0.25%) + V2 (1%)</text>
+<text x="610" y="224" text-anchor="middle" fill="#6B7699" font-size="10">native-SOL liquidity</text>
+<!-- locked vs active bar -->
+<text x="380" y="280" text-anchor="middle" fill="#EAECF5" font-size="13" font-weight="bold">8 of 18 pools — the Realm &amp; Eternal bonds — can never be unwound</text>
+<rect x="120" y="300" width="520" height="30" rx="6" fill="#161d22" stroke="#222B49"/>
+<rect x="120" y="300" width="350" height="30" rx="6" fill="#D4AF37"/>
+<text x="295" y="320" text-anchor="middle" fill="#0E1326" font-size="12" font-weight="bold">permanently locked floor</text>
+<text x="555" y="320" text-anchor="middle" fill="#B96BE0" font-size="11" font-weight="bold">active (Lab)</text>
+<text x="380" y="372" text-anchor="middle" fill="#9AA3C0" font-size="11.5" font-style="italic">OGs may pool alongside the Bank — earning the same fee flow on their own positions</text>
+<text x="380" y="398" text-anchor="middle" fill="#6B7699" font-size="10.5">all built on Meteora · the Bank's fee income accrues, claimable, never yet claimed</text>
+</svg>

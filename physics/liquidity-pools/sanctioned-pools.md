@@ -1,27 +1,20 @@
 ---
 description: 5 of the Realm tokens are liquidity boosted to blockchain native $SOL.
-icon: circle-3
 ---
 
-# Sanctioned Pools
+# 🌊 Sanctioned Pools
 
 ## Established by OG Lab
 
-Created by [OG Lab](../../institutions/og-lab.md), Sanctioned Pools are regulated pools in which 5 Realm tokens are pooled to SOL, the native token of the Solana blockchain.&#x20;
+Created by [OG Lab](../../power/og-lab.md), Sanctioned Pools are regulated pools in which 5 Realm tokens are pooled to SOL, the native token of the Solana blockchain.
 
-Sanctioned Pools establish a direct liquidity link to SOL for every Realm token, with the exception of $OGG, which already has an Eternal Pool with SOL.
+Sanctioned Pools establish a direct liquidity link to SOL for every Realm token — with the exception of $OGG, which already holds an [Eternal Pool](eternal-pools.md) with SOL.
 
 ## Alignment
 
-Although 3 of the tokens ($OGM, $OGG, $OGC) already have [Eternal Pools](eternal-pools.md) in place, the creation of Sanctioned Pools gives each token without a Eternal pair to SOL a non-permanent Liquidity Pool with SOL.&#x20;
+The effect is to greatly enhance on-chain liquidity of the entire Realm token ecosystem: every token has a direct path to native liquidity on Solana.
 
-The effect of this is to greatly enhance on-chain liquidity of the entire Realm token ecosystem, as now each token has a direct path to native token liquidity on Solana.
-
-* [OGR](../tokens/usdogr-og-realm.md) **is pooled with** SOL
-* [OGM](../tokens/usdogm-og-matter.md) **is pooled with** SOL
-* [OGA](../tokens/usdoga-og-alchemy.md) **is pooled with** SOL
-* [OGC](../tokens/usdogc-og-coin.md) **is pooled with** SOL
-* [OGF](../tokens/usdogf-og-fool.md) **is pooled with** SOL
+* [$OGR](../tokens/ogr.md) · [$OGM](../tokens/ogm.md) · [$OGA](../tokens/oga.md) · [$OGC](../tokens/ogc.md) · [$OGF](../tokens/ogf.md) **are each pooled with SOL**
 
 {% hint style="warning" %}
 $OGG does not have a Sanctioned Pool because it has an Eternal Pool with SOL.
@@ -29,14 +22,34 @@ $OGG does not have a Sanctioned Pool because it has an Eternal Pool with SOL.
 
 ## OG Participation
 
-Although [OG Lab](../../institutions/og-lab.md) has provided an initial level of liquidity via Sanctioned Pools, it is not permanent, thus OGs are heavily encouraged to participate by adding their chosen Realm token with SOL into the following Sanctioned Pools:
+OG Lab has provided an initial level of liquidity — **but unlike the Bank's bonds, it is not permanent.** OGs are heavily encouraged to participate by adding their chosen Realm token with SOL:
 
-<table><thead><tr><th width="156">Pair</th><th width="83">Fee</th><th>Meteora</th></tr></thead><tbody><tr><td>$OGR-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/96LQ9z7NjykLDdsFrkbymut3su5JY5L55ieEeh1xHzgX">Link</a></td></tr><tr><td>$OGM-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/5fSVjPiCSCbDctyaXWssvHsZ8Bt6TYjWft14SRsYMmcp">Link</a></td></tr><tr><td>$OGA-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/CzpyCn19FPtyQEXvDJTNQq1r87DWmm3RViPEek1Edmns">Link</a></td></tr><tr><td>$OGC-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/AYQALsNFanvfqm6FPbziEj1mc8bP5izPDJWwHmrAJ6Xb">Link</a></td></tr><tr><td>$OGF-SOL</td><td>0.25%</td><td><a href="https://app.meteora.ag/pools/Hbb5mZ5ufp83WrAkCZ4rcMxQc4LrNUFEe7BD9b8ffmec">Link</a></td></tr></tbody></table>
+### V1 Sanctioned Pools — 0.25% fee
 
-With the introduction of Meteora DAMM V2 architecture, [OG Lab](../../institutions/og-lab.md) supplied an additional layer of liquidity via V2 Sanctioned Pools. Similarly structured in every way to the initial Sanctioned Pools other than Fee Rate (1%), OGs may find either of the the older or newer versions preferable.
+| Pair | Fee | Meteora |
+| --- | --- | --- |
+| $OGR–SOL | 0.25% | [Link](https://app.meteora.ag/pools/96LQ9z7NjykLDdsFrkbymut3su5JY5L55ieEeh1xHzgX) |
+| $OGM–SOL | 0.25% | [Link](https://app.meteora.ag/pools/5fSVjPiCSCbDctyaXWssvHsZ8Bt6TYjWft14SRsYMmcp) |
+| $OGA–SOL | 0.25% | [Link](https://app.meteora.ag/pools/CzpyCn19FPtyQEXvDJTNQq1r87DWmm3RViPEek1Edmns) |
+| $OGC–SOL | 0.25% | [Link](https://app.meteora.ag/pools/AYQALsNFanvfqm6FPbziEj1mc8bP5izPDJWwHmrAJ6Xb) |
+| $OGF–SOL | 0.25% | [Link](https://app.meteora.ag/pools/Hbb5mZ5ufp83WrAkCZ4rcMxQc4LrNUFEe7BD9b8ffmec) |
 
-<table><thead><tr><th width="156">Pair</th><th width="83">Fee</th><th>Meteora</th></tr></thead><tbody><tr><td>$OGR-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/yegohwPMtdpVGfvDeF2zimr5oq8HL9yqdnMkue7Cb9j">Link</a></td></tr><tr><td>$OGM-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/352w2ZChf2jLWSADY1xTbiW1tLPQUYLEU3hpT1WCzBSP">Link</a></td></tr><tr><td>$OGA-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/4NRjYbjc8ZaUkEyJ3Q12uHxtBsuVHqdam5qHCxLFVtRc">Link</a></td></tr><tr><td>$OGC-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/CRTdWx8e8cY8C5y4FkmGzQLC6y3v9tQoXxG6yTHjryzx">Link</a></td></tr><tr><td>$OGF-SOL</td><td>1%</td><td><a href="https://app.meteora.ag/dammv2/4rBSz7V5n7KWYmw4bthL5uoLCu9qdeTc25gaTxnuDips">Link</a></td></tr></tbody></table>
+### V2 Sanctioned Pools — 1% fee (Meteora DAMM V2)
+
+With the introduction of Meteora DAMM V2 architecture, OG Lab supplied an additional layer of liquidity. Similarly structured in every way other than fee rate, OGs may find either version preferable:
+
+| Pair | Fee | Meteora |
+| --- | --- | --- |
+| $OGR–SOL | 1% | [Link](https://app.meteora.ag/dammv2/yegohwPMtdpVGfvDeF2zimr5oq8HL9yqdnMkue7Cb9j) |
+| $OGM–SOL | 1% | [Link](https://app.meteora.ag/dammv2/352w2ZChf2jLWSADY1xTbiW1tLPQUYLEU3hpT1WCzBSP) |
+| $OGA–SOL | 1% | [Link](https://app.meteora.ag/dammv2/4NRjYbjc8ZaUkEyJ3Q12uHxtBsuVHqdam5qHCxLFVtRc) |
+| $OGC–SOL | 1% | [Link](https://app.meteora.ag/dammv2/CRTdWx8e8cY8C5y4FkmGzQLC6y3v9tQoXxG6yTHjryzx) |
+| $OGF–SOL | 1% | [Link](https://app.meteora.ag/dammv2/4rBSz7V5n7KWYmw4bthL5uoLCu9qdeTc25gaTxnuDips) |
 
 {% hint style="danger" %}
-This liquidity is not permanent and can be removed by OG Lab at any time.&#x20;
+This liquidity is not permanent and can be removed by OG Lab at any time.
 {% endhint %}
+
+---
+
+*✓ Verified by the Mad OG · UEC 702 (2026-06-06)*

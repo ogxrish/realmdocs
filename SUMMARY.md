@@ -1,48 +1,72 @@
 # Table of contents
 
-## Welcome
+* [🔱 The Gates](the-gates.md)
 
-* [💎 Realm of OGs](README.md)
-* [💡 Overview](<README (1).md>)
-* [📋 How to Play](welcome/how-to-play.md)
-* [⏳ Timeline](welcome/timeline.md)
+## I. The Realm
 
-## Power
+* [Overview](realm/overview.md)
+* [The Story So Far](realm/the-story-so-far.md)
+* [Timeline](realm/timeline.md)
+* [How to Enter](realm/how-to-enter.md)
 
-* [🔱 Mad OG](power/mad-og.md)
+## II. Power & Institutions
 
-## Institutions
+* [Mad OG](power/mad-og.md)
+* [OG Bank](power/og-bank.md)
+* [OG Lab](power/og-lab.md)
+* [The Flow of Value](power/flow-of-value.md)
 
-* [🏦 OG Bank](institutions/og-bank.md)
-* [🕋 OG Lab](institutions/og-lab.md)
+## III. Physics
 
-## Physics
-
-* [🪙 Tokens](physics/tokens/README.md)
-  * [$OGR - OG Realm](physics/tokens/usdogr-og-realm.md)
-  * [$OGM - OG Matter](physics/tokens/usdogm-og-matter.md)
-  * [$OGA - OG Alchemy](physics/tokens/usdoga-og-alchemy.md)
-  * [$OGG - OG Gold](physics/tokens/usdogg-og-gold.md)
-  * [$OGC - OG Coin](physics/tokens/usdogc-og-coin.md)
-  * [$OGF - OG Fool](physics/tokens/usdogf-og-fool.md)
-* [💧 Liquidity Pools](physics/liquidity-pools/README.md)
+* [Tokens](physics/tokens.md)
+  * [$OGR — OG Realm](physics/tokens/ogr.md)
+  * [$OGM — OG Matter](physics/tokens/ogm.md)
+  * [$OGA — OG Alchemy](physics/tokens/oga.md)
+  * [$OGG — OG Gold](physics/tokens/ogg.md)
+  * [$OGC — OG Coin](physics/tokens/ogc.md)
+  * [$OGF — OG Fool](physics/tokens/ogf.md)
+* [Liquidity Pools](physics/liquidity-pools.md)
   * [Realm Pools](physics/liquidity-pools/realm-pools.md)
   * [Eternal Pools](physics/liquidity-pools/eternal-pools.md)
   * [Sanctioned Pools](physics/liquidity-pools/sanctioned-pools.md)
+* [☀️ Epochs & The Universal Clock](physics/epochs.md)
+* [Difficulty](physics/difficulty.md)
 
-## Society
-
-* [👤 Classes](society/classes.md)
-
-## Games
+## IV. The Games
 
 * [🛕 OG Mine](games/og-mine.md)
 * [🏛️ OG Reserve](games/og-reserve.md)
 * [🎰 OG Lottery](games/og-lottery.md)
+* [Repurchase Programs](games/repurchase-programs.md)
 
-## Constructs
+## V. Society
 
-* [☀️ Epochs](constructs/epochs.md)
-* [📈 Difficulty](constructs/difficulty.md)
-* [⚙️ Repurchase Programs](constructs/repurchase-programs.md)
-* [🧠 Knowledge Base](constructs/knowledge-base.md)
+* [Classes](society/classes.md)
+* [Citizenship](society/citizenship.md)
+* [🛡️ Knighthood](society/knighthood.md)
+
+## VI. Paths of Play
+
+* [Paths of Play](paths/index.md)
+  * [Mode 0 · The Watcher](paths/mode-0-watcher.md)
+  * [Mode 1 · The Citizen](paths/mode-1-citizen.md)
+  * [Mode 2 · The Trader](paths/mode-2-trader.md)
+  * [Mode 3 · The Player](paths/mode-3-player.md)
+  * [Mode 4 · The Liquidity Lord](paths/mode-4-liquidity-lord.md)
+  * [Mode 5 · The Arbitrageur](paths/mode-5-arbitrageur.md)
+  * [Mode ∞ · The Builder](paths/mode-builder.md)
+* [🛡️ The Knight's Path](paths/knights-path.md)
+
+## VII. Era II
+
+* [The Alchemy Airdrop](era-2/alchemy-airdrop.md)
+* [The Unnamed Era](era-2/the-unnamed-era.md)
+* [What Comes](era-2/what-comes.md)
+
+## VIII. The Canon
+
+* [Verified Registry](canon/verified-registry.md)
+* [Onchain Status](canon/onchain-status.md)
+* [The Agent's Gate](canon/agents-gate.md)
+* [Glossary & FAQ](canon/glossary-faq.md)
+* [Knowledge Base & Jester](canon/knowledge-base.md)

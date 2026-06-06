@@ -1,0 +1,25 @@
+<svg viewBox="0 0 800 300" xmlns="http://www.w3.org/2000/svg" font-family="Georgia,'Times New Roman',serif">
+<rect width="800" height="300" fill="#0E1326"/>
+<text x="400" y="40" text-anchor="middle" fill="#EAECF5" font-size="20" font-weight="bold" letter-spacing="1">THE UNIVERSAL EPOCH CLOCK</text>
+<text x="400" y="62" text-anchor="middle" fill="#9AA3C0" font-size="12.5" font-style="italic">one calendar, running since the first block</text>
+<!-- Era I band -->
+<rect x="60" y="120" width="430" height="34" rx="6" fill="#161d22" stroke="#D4AF37" stroke-width="1.4"/>
+<text x="275" y="142" text-anchor="middle" fill="#D4AF37" font-size="13" font-weight="bold">ERA I — the Creation Era (sealed)</text>
+<!-- Era II band -->
+<rect x="498" y="120" width="252" height="34" rx="6" fill="#1a1030" stroke="#8B5CF6" stroke-width="1.4"/>
+<text x="624" y="142" text-anchor="middle" fill="#B96BE0" font-size="13" font-weight="bold">ERA II — unnamed</text>
+<!-- axis -->
+<line x1="60" y1="180" x2="750" y2="180" stroke="#3A4570" stroke-width="2"/>
+<!-- ticks -->
+<g font-size="10.5">
+<circle cx="60" cy="180" r="5" fill="#D4AF37"/><text x="60" y="205" text-anchor="middle" fill="#EAECF5" font-weight="bold">UEC 1</text><text x="60" y="220" text-anchor="middle" fill="#6B7699">Creation</text>
+<circle cx="150" cy="180" r="4" fill="#7C8AA8"/><text x="150" y="205" text-anchor="middle" fill="#9AA3C0">26</text><text x="150" y="219" text-anchor="middle" fill="#6B7699">Mine</text>
+<circle cx="230" cy="180" r="4" fill="#7C8AA8"/><text x="230" y="205" text-anchor="middle" fill="#9AA3C0">139</text><text x="230" y="219" text-anchor="middle" fill="#6B7699">Reserve</text>
+<circle cx="380" cy="180" r="4" fill="#E0623D"/><text x="380" y="205" text-anchor="middle" fill="#9AA3C0">500</text><text x="380" y="219" text-anchor="middle" fill="#6B7699">Lottery</text>
+<circle cx="430" cy="180" r="4" fill="#37B6A4"/><text x="430" y="205" text-anchor="middle" fill="#9AA3C0">501</text><text x="430" y="219" text-anchor="middle" fill="#6B7699">Classes</text>
+<circle cx="498" cy="180" r="6" fill="#8B5CF6"/><text x="498" y="247" text-anchor="middle" fill="#EAECF5" font-weight="bold">700</text><text x="498" y="261" text-anchor="middle" fill="#6B7699">Clock revealed</text>
+<circle cx="560" cy="180" r="4" fill="#7C8AA8"/><text x="560" y="205" text-anchor="middle" fill="#9AA3C0">731</text><text x="560" y="219" text-anchor="middle" fill="#6B7699">turns 2</text>
+<circle cx="660" cy="180" r="6" fill="#D4AF37"/><text x="660" y="247" text-anchor="middle" fill="#EAECF5" font-weight="bold">904</text><text x="660" y="261" text-anchor="middle" fill="#D4AF37">🪂 Alchemy Airdrop</text>
+<circle cx="750" cy="180" r="5" fill="#8B5CF6"/><text x="750" y="205" text-anchor="middle" fill="#9AA3C0">1399</text><text x="750" y="219" text-anchor="middle" fill="#6B7699">Era II ends</text>
+</g>
+</svg>

@@ -1,0 +1,28 @@
+# .gitbook.yaml — FINAL (place at realmdocs repo ROOT at cutover)
+# v2 content lands at repo root (replacing v1 dirs); ingest.py + .github + .gitbook preserved.
+structure:
+  readme: the-gates.md
+  summary: SUMMARY.md
+
+redirects:
+  # --- moved sections (v1 path -> v2 file) ---
+  welcome/readme: realm/overview.md
+  welcome/realm-of-ogs: the-gates.md
+  welcome/how-to-play: paths/index.md
+  welcome/timeline: realm/timeline.md
+  institutions/og-bank: power/og-bank.md
+  institutions/og-lab: power/og-lab.md
+  constructs/epochs: physics/epochs.md
+  constructs/difficulty: physics/difficulty.md
+  constructs/repurchase-programs: games/repurchase-programs.md
+  constructs/knowledge-base: canon/knowledge-base.md
+  # --- token sub-pages (v1 usd-slugs -> v2 ticker slugs) ---
+  physics/tokens/usdogr-og-realm: physics/tokens/ogr.md
+  physics/tokens/usdogm-og-matter: physics/tokens/ogm.md
+  physics/tokens/usdoga-og-alchemy: physics/tokens/oga.md
+  physics/tokens/usdogg-og-gold: physics/tokens/ogg.md
+  physics/tokens/usdogc-og-coin: physics/tokens/ogc.md
+  physics/tokens/usdogf-og-fool: physics/tokens/ogf.md
+  # --- stable paths (no redirect needed): power/mad-og, physics/tokens,
+  #     physics/liquidity-pools(+realm/eternal/sanctioned-pools),
+  #     society/classes, games/og-mine, games/og-reserve, games/og-lottery ---

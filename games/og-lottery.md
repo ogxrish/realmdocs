@@ -4,64 +4,84 @@ description: Gamemaster of the Realm of OGs
 
 # 🎰 OG Lottery
 
-<figure><img src="../.gitbook/assets/Lottery.png" alt=""><figcaption></figcaption></figure>
-
 ## Established by OG Bank
 
-[OG Bank](../institutions/og-bank.md) created OG Lottery to dispense [$OGF](../physics/tokens/usdogf-og-fool.md), the primal degeneracy of the Realm.
+[OG Bank](../power/og-bank.md) created OG Lottery to dispense [$OGF](../physics/tokens/ogf.md), the primal degeneracy of the Realm.
 
-OG Lottery was created to be accessible to all OGs.
+OG Lottery was created to be accessible to all OGs. It is the Realm's test of nerve — rewarding the early, the late, and the vigilant, each by a different blade.
 
 ## Initial Funding
 
-[OG Bank](../institutions/og-bank.md) securely transferred nearly all of the remaining supply of [$OGF](../physics/tokens/usdogf-og-fool.md) to OG Lottery (800T $OGF) for distribution within the Realm, except for 10% of $OGF, which OG Bank retained.
+OG Bank securely transferred nearly all of the remaining supply of $OGF — an endowment of **800T $OGF (80% of supply)** — to OG Lottery for distribution within the Realm, retaining 10% in the Bank's keeping. The transfers are [on the chain](../realm/timeline.md).
 
-## Lottery Operations
+## The First Age and the Rebirth
 
-While notable differences exist, OG Lottery functions similarly to [OG Mine](og-mine.md) and [OG Reserve](og-reserve.md). Specifically, OG Lottery dispenses [$OGF](../physics/tokens/usdogf-og-fool.md).
+The Lottery first opened its doors in September 2025 and ran its First Age. On **November 17, 2025**, it was rebooted with bug fixes onto its own sovereign program — and that program, born at **UEC 500**, is the canonical Lottery that runs today. Its entire history since rebirth is proven onchain: in the Creation Era it ran **9 pools and drew 869 bids**, distributing over **14.5T $OGF** to its winners.
 
-### $OGF Emissions
+*A note for astute prize-pool watchers: during the reset, the first post-reboot Epoch emitted 100,000 $OGF rather than the designed 1B. After the first post-reset pool was awarded on 12/22, this hiccup became immaterial to future pools.*
 
-OG Lottery emits a constantly increasing amount of [$OGF](../physics/tokens/usdogf-og-fool.md) each epoch; beginning at 1B (1,000,000,000) $OGF per epoch and adding an additional 1B (1,000,000,000) $OGF to each and every subsequent epoch. Since the amount of $OGF emitted increases at a constant rate, more of the supply continues to circulate as time goes on. Based on this emissions schedule and the total supply of $OGF initially sent to OG Lottery for distribution, OG Lottery will continue to emit $OGF for approximately 1,265 epochs (or 3.5 years).\
-\
-&#xNAN;_\[Astute prize pool watchers may notice that during the OG Lottery reset of 12/2025, the first epoch after the reset was not 1B as designed but only 100,000 $OGF.  After the first prize pool \[post reset] was awarded on 12/22, this hiccup became immaterial to future prize pools.]_
+## How to Play
 
-<figure><img src="../.gitbook/assets/lottery.png" alt=""><figcaption></figcaption></figure>
+1. **Visit the Lottery**: [**lottery.ogrealm.xyz**](https://lottery.ogrealm.xyz/)
+2. **Bid on the open Pool** — any number of times, each bid paying the fee set by the [Difficulty Curve](../physics/difficulty.md).
+3. **The Pool grows.** Each Epoch, the Lottery releases a growing allotment of $OGF into the Pool — and the Pool stays open as long as the bids keep coming.
+4. **The Final Bid wins.** A Pool closes only when **an entire Epoch passes without a single bid**. The last bid standing is the Final Bid.
+5. **The split:** the OG holding the Final Bid receives **50% of the accumulated Pool**. All prior bids share the other 50%, proportional to each player's **number of bids** — including any earlier bids by the winner.
+6. **Claim within 10 Epochs** — unclaimed winnings are **burned**.
 
-### Bidding $OGF
-
-OGs can bid for $OGF each epoch by visiting OG Lottery:
-
-{% hint style="success" %}
-[https://lottery.ogrealm.xyz](https://lottery.ogrealm.xyz/)
+{% hint style="warning" %}
+Every other game in the Realm ends on the clock. The Lottery ends on silence. To win it outright, you must be the last voice before a full day of quiet — and the Realm is rarely quiet.
 {% endhint %}
 
-### Lottery Fees
+## The Numbers
 
-OGs can bid any number of times each epoch by paying the Lottery fee, paid in either SOL or [$OGC](../physics/tokens/usdogc-og-coin.md).
+### Emissions — the Accelerating Flood
 
-### Lottery Winners
+OG Lottery emits a constantly increasing amount of $OGF each Epoch: **1B in its first Epoch, adding another 1B every Epoch after** — 1B, 2B, 3B, onward. More of the supply circulates as time goes on. Against its endowment, the flood runs approximately **1,265 Epochs (about 3.5 years)**.
 
-The Final Bid is considered the winner of each Lottery Pool. Unlike both [OG Mine](og-mine.md) and[ OG Reserve](og-reserve.md), winners of OG Lottery are not necessarily determined each epoch. Instead, the Final Bid is determined when an entire epoch passes without a bid by any player. The OG with the Final Bid receives 50% of the accumulated [$OGF](../physics/tokens/usdogf-og-fool.md) in the Lottery Pool, while all prior bids share the second 50% of the Lottery Pool, proportional to each player's number of bids (which includes any of the _OG with the Final Bid_'s bids prior to the final bid, if they made any).
+A Pool's prize is the **sum of every Epoch's allotment it spanned** — long-lived Pools grow monstrous.
 
-### Difficulty Curve
+<figure><img src="../.gitbook/assets/emission-lottery.svg" alt="OG Lottery — +1B $OGF more every Epoch; the longer a Pool lives, the heavier the prize"><figcaption>OG Lottery — +1B $OGF more every Epoch; the longer a Pool lives, the heavier the prize</figcaption></figure>
 
-Lottery fees (difficulty) increase with each new bidder. Unlike both [OG Mine](og-mine.md) and [OG Reserve](og-reserve.md) (in which difficulty resets each epoch), OG Lottery difficulty is reset only upon a successful winning Final Bid. Therefore, the difficulty curve continues to increase over multiple epochs (or until a Final Bid is confirmed).
+### Difficulty
 
-### ~~Replenishing the Lottery~~
+Lottery fees follow the Realm's one [difficulty law](../physics/difficulty.md): each new bidder pays a little more than the last — but unlike the Mine and Reserve, **the curve resets only upon a winning Final Bid**, so it climbs across multiple Epochs until a Pool closes. Early bids in a fresh Pool are nearly free; the late war is expensive by design.
 
-The Repurchase Program utilizes all collected reserve fees to buy [$OGF](../physics/tokens/usdogf-og-fool.md) back from the open market. However, in stark contrast to both [OG Mine](og-mine.md) and [OG Reserve](og-reserve.md), $OGF repurchased is burned. This reduces the supply of $OGF and does NOT function to replenish the OG Lottery.
+## Replenishing — There Is No Replenishing
 
-#### Lottery Fees
+In stark contrast to the Mine and Reserve, repurchased $OGF is **burned**, not returned.
 
-All OG Lottery fees collected are used to buy [$OGF](../physics/tokens/usdogf-og-fool.md) back from the open market to be burned; ultimately functioning to reduce the circulating supply of $OGF.
+**Lottery fees:** collected fees are designated to buy $OGF back from the open market and burn it — reducing circulating supply. This arm of the [Repurchase Program](repurchase-programs.md) is ⚪ COMING.
 
-#### Unclaimed $OGF
+**Unclaimed $OGF:** winnings unclaimed after 10 Epochs are burned, further reducing supply.
 
-Additionally, [$OGF](../physics/tokens/usdogf-og-fool.md) won but not claimed within 10 epochs is burned, further contributing to the reduction function of $OGF.
+The Lottery does not refill. It consumes — and every burn makes the remaining Fool scarcer, and the [Degen class](../society/classes.md) smaller, forever.
+
+## Mastery
+
+Three ways to win, three temperaments:
+
+* **Be early** — bids in a young Pool cost near nothing and hold a pro-rata claim on half of everything that follows
+* **Be late** — the Final Bid takes half the Pool alone; but timing silence is the hardest read in the Realm
+* **Be vigilant** — bid count, not bid size, sets your share; the persistent quietly compound their claim while the bold fight over the crown
+
+In the Creation Era, a single player placed 551 of the Lottery's 869 bids and opened 7 of its 9 pools. The chain remembers what that discipline earned. The full timing game lives in [Paths of Play — Hard Mode](../paths/mode-5-arbitrageur.md).
+
+## Status & Proof
+
+| Item | Value |
+| --- | --- |
+| Game | [lottery.ogrealm.xyz](https://lottery.ogrealm.xyz/) |
+| Program | `2CHDuw476jJk4oTtrKuA9PSvLsxSHsEQ3sLm3zJvwJsy` — [Solscan](https://solscan.io/account/2CHDuw476jJk4oTtrKuA9PSvLsxSHsEQ3sLm3zJvwJsy) |
+| Born | Lottery Epoch 1 = UEC 500 (2025-11-16) |
+| Epoch formula | Lottery Epoch = UEC − 499 |
+| Creation Era record | 9 pools · 869 bids · 14.5T+ $OGF distributed |
+| Repurchase | ⚪ COMING — [details](repurchase-programs.md) |
 
 ## Unlocking the Degen
 
-[$OGF](../physics/tokens/usdogf-og-fool.md) represents the primal degeneracy of the Realm, with OG Lottery being the institution responsible for its distribution. OG Lottery rewards those for being early (low difficulty, guaranteed prize), being late (winner takes the lion's share), and being vigilant (participating often to also tap into the second half of the Lottery Pool).
+$OGF represents the primal degeneracy of the Realm, with OG Lottery the Institution responsible for its distribution. Through OG Lottery, OGs attribute value to the Fool — and tap into the ecosystem of Luck and Fate that awaits them.
 
-Through OG Lottery, OGs have the ability to attribute value to $OGF in order to tap into the ecosystem of Luck and Fate that awaits them.
+---
+
+*✓ Verified by the Mad OG · UEC 702 (2026-06-06)*
