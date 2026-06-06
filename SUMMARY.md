@@ -48,13 +48,13 @@
 ## Paths
 
 * [Paths of Play](paths/README.md)
-  * [Mode 0 · The Watcher](paths/mode-0-watcher.md)
-  * [Mode 1 · The Citizen](paths/mode-1-citizen.md)
-  * [Mode 2 · The Trader](paths/mode-2-trader.md)
-  * [Mode 3 · The Player](paths/mode-3-player.md)
-  * [Mode 4 · The Liquidity Lord](paths/mode-4-liquidity-lord.md)
-  * [Mode 5 · The Arbitrageur](paths/mode-5-arbitrageur.md)
-  * [Mode ∞ · The Builder](paths/mode-builder.md)
+* [Mode 0 · The Watcher](paths/mode-0-watcher.md)
+* [Mode 1 · The Citizen](paths/mode-1-citizen.md)
+* [Mode 2 · The Trader](paths/mode-2-trader.md)
+* [Mode 3 · The Player](paths/mode-3-player.md)
+* [Mode 4 · The Liquidity Lord](paths/mode-4-liquidity-lord.md)
+* [Mode 5 · The Arbitrageur](paths/mode-5-arbitrageur.md)
+* [Mode ∞ · The Builder](paths/mode-builder.md)
 * [🛡️ The Knight's Path](paths/knights-path.md)
 
 ## Era II
