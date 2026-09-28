@@ -30,7 +30,11 @@ Verify every mint address against the [Verified Registry](../canon/verified-regi
 
 The moment your wallet first holds any Realm token — or first signs a transaction with a Realm game — the chain records your **Birth Epoch**: your permanent position in Realm history. It can never be reset, adjusted, or taken from you.
 
-An OG born at UEC 26 was present at the very first emission. An OG who enters today is born at UEC 700+ — among the first of a new era. Wear your number accordingly.
+An OG born at UEC 26 was present at the very first emission. An OG who enters today is born at UEC 800+ — early in a new era, and before the Alchemy. Wear your number accordingly.
+
+{% hint style="success" %}
+**Read your own record.** Paste your wallet into the [Mirror](https://ogrealm.com/mirror) — no connection, no signing — and the Realm shows your Birth Epoch, your class, your House, and your standing toward the Alchemy.
+{% endhint %}
 
 ## 4 — Become a Citizen
 
@@ -38,8 +42,10 @@ An OG born at UEC 26 was present at the very first emission. An OG who enters to
 
 ## 5 — Enter the Gathering Places
 
-* **Discord — the only known gathering place behind the portal:** [discord.gg/ogrealm](https://discord.gg/ogrealm)
+* **Discord — the Arena, the gathering place behind the portal:** [discord.gg/ogrealm](https://discord.gg/ogrealm)
+* **Telegram — the Wire, every move cried live from the chain:** [t.me/ogrealm](https://t.me/ogrealm)
 * **X — the Realm's storyline:** [@ogrealm\_](https://x.com/ogrealm_)
+* **The Face — the living Realm, read from Solana:** [ogrealm.com](https://ogrealm.com)
 
 Classes are granted automatically in Discord based on the liquid holdings of your verified wallet.
 
@@ -55,4 +61,4 @@ It is advised to learn the game, and watch, before entering. The game is already
 
 ---
 
-*✓ Verified by the Mad OG · UEC 702 (2026-06-06)*
+*✓ Verified by the Mad OG · UEC 702 (2026-06-06) · the Mirror and the Wire added · UEC 816 (2026-09-28)*

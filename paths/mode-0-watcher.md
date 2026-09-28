@@ -9,9 +9,11 @@ It is advised to learn the game, and watch, before entering. Mode 0 is that advi
 ## What a Watcher Does
 
 * **Reads the chain.** Every engine, wallet, and pool in the [Verified Registry](../canon/verified-registry.md) is one click from its full history. The Realm has no private books.
-* **Reads the board.** The [Onchain Status](../canon/onchain-status.md) page carries the live epochs, vault balances, engine badges, and class quota races.
+* **Reads the board.** The Face's [Oracle](https://ogrealm.com/oracle) carries the live worth, engines, and society, refreshed every half hour from Solana; the [Onchain Status](../canon/onchain-status.md) page carries the Book's snapshot.
+* **Reads the Wire.** Every dig, lock, bid, and trade, cried live from the chain — on [Telegram](https://t.me/ogrealm) and the [Face](https://ogrealm.com/saga/wire).
+* **Looks into the Mirror.** Any wallet's standing, [read without connecting](https://ogrealm.com/mirror) — including the Watcher's own, the day it first touches the Realm.
 * **Reads the story.** [The Story So Far](../realm/the-story-so-far.md) and the [Timeline](../realm/timeline.md) hold the sealed history of the Creation Era — every claim proven.
-* **Listens at the gates.** The storyline unfolds on [X](https://x.com/ogrealm_); the gathering place is [Discord](https://discord.gg/ogrealm).
+* **Listens at the gates.** The storyline unfolds on [X](https://x.com/ogrealm_); the gathering place is [Discord](https://discord.gg/ogrealm), where the Scribe cries the Daily Epoch every reset.
 
 ## Why Watching Pays
 
@@ -27,4 +29,4 @@ A Watcher graduates the moment a wallet first holds Realm value — usually thro
 
 ---
 
-*✓ Verified by the Mad OG · UEC 702 (2026-06-06)*
+*✓ Verified by the Mad OG · UEC 702 (2026-06-06) · the Face, the Wire, the Mirror added · UEC 816 (2026-09-28)*

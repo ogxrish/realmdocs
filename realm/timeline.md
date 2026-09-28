@@ -237,10 +237,15 @@ The Realm's history is not asserted. It is proven. Every milestone below carries
 | UEC | Date | Milestone |
 | --- | --- | --- |
 | 700 | 06/04/26 | ☀️ Universal Epoch Clock activated — Era II begins |
-| 731 | 07/05/26 | The Realm turns 2 — Year 3 begins |
+| 703 | 06/07/26 | 🧮 The First Census — 37 citizens proven · the Book relaunched |
+| 705 | 06/09/26 | 👑 The Crown Oracle debuts — the price-of-record by a law of evidence |
+| 710 | 06/14/26 | 💵 The Proof of Reserves — the Realm made auditable |
+| 719 | 06/23/26 | 🎮 The Great Reckoning — the engines proven to conserve exactly |
+| 730 | 07/04/26 | ⚡ The Wire is lit — the Realm's raw stream, backfilled to the Creation |
+| 731 | 07/05/26 | 🔱 The Realm turns 2 — **the Face is unveiled** at [ogrealm.com](https://ogrealm.com) |
 | **904** | **12/25/26** | 🪂 [**The Alchemy Airdrop**](../era-2/alchemy-airdrop.md) — the Realm judges its gameboard |
 | 1399 | 05/03/28 | Era II closes |
 
 ---
 
-*✓ Verified by the Mad OG · UEC 702 (2026-06-06)*
+*✓ Verified by the Mad OG · UEC 702 (2026-06-06) · Era II milestones added · UEC 816 (2026-09-28)*

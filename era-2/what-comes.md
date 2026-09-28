@@ -10,8 +10,8 @@ New games are still being introduced, and tokens are still being emitted. Era II
 
 | UEC | Date | What |
 | --- | --- | --- |
-| 731 | 2026-07-05 | **The Realm turns 2** — Year 3 begins |
-| — | before UEC 904 | **Self-lookup** — every OG may read their standing as the Realm sees it |
+| ~~731~~ | ~~2026-07-05~~ | ✅ **The Realm turned 2 — and the Face was unveiled** ([ogrealm.com](https://ogrealm.com)) |
+| ~~—~~ | ~~before UEC 904~~ | ✅ **Self-lookup** — every OG may read their standing in the [Mirror](https://ogrealm.com/mirror) |
 | — | approaching UEC 904 | **The challenge window** — the record may be contested; the chain arbitrates |
 | **904** | **2026-12-25** | 🪂 [**The Alchemy Airdrop**](alchemy-airdrop.md) — the fourth game, in a single act |
 | 1399 | 2028-05-03 | Era II closes |
@@ -20,7 +20,8 @@ New games are still being introduced, and tokens are still being emitted. Era II
 
 * **The engines are under the Realm's own audit** — the [Repurchase arms](../games/repurchase-programs.md) carry honest status badges, and the day each fires, its badge turns green
 * **The docs are living canon** — this book is verified page by page, stamped by the Mad OG, and refreshed as the chain moves ([Onchain Status](../canon/onchain-status.md))
-* **The court convenes** — [Knighthood](../society/knighthood.md) stands open at 11 of ≤1,000 seats
+* **The court convenes** — [Knighthood](../society/knighthood.md) stands at 16 of ≤1,000 seats (live count on the [Census](https://ogrealm.com/census))
+* **The Wire runs** — every move of the Realm, cried live on [Telegram](https://t.me/ogrealm) and the [Face](https://ogrealm.com/saga/wire)
 
 ## And the Unannounced
 
@@ -32,4 +33,4 @@ Fortunes are being accumulated both in plain sight and in the shadows. The board
 
 ---
 
-*✓ Verified by the Mad OG · UEC 702 (2026-06-06)*
+*✓ Verified by the Mad OG · UEC 702 (2026-06-06) · horizon reckoned · UEC 816 (2026-09-28)*

@@ -24,7 +24,7 @@ Let a component lapse and the rank rolls away. Restore it, and the rank returns.
 
 * Each requirement is **0.1% of its token's supply** — at most **1,000 Knights can ever exist**
 * Every Knight seat is **triple-taxed**: it consumes a Capital seat, a Builder seat, and a Degen seat at once
-* At most **1,000 Knights can ever exist** — and the court today is small; its live size is shown on the [Onchain Status](../canon/onchain-status.md) page (a fresh census is being collected)
+* At most **1,000 Knights can ever exist** — and the court today is small; its live size is counted every Epoch on the Face's [Census](https://ogrealm.com/census) (16 seated at UEC 816) and mirrored on the [Onchain Status](../canon/onchain-status.md) page
 
 ## The Perks
 

@@ -48,10 +48,26 @@ With the same words, the Creation Era was sealed, and the next era began.
 
 Era II has not been named. It holds, among other things, the [Alchemy Airdrop](../era-2/alchemy-airdrop.md) — UEC 904, December 25, 2026 — when the Realm will judge its own gameboard and history, and reward those it has known best and longest.
 
+## The Realm Proves Itself — UEC 703–719
+
+Three days into the new era the Realm counted itself for the first time: the **First Census** (UEC 703) found thirty-seven citizens standing proven — Knights, Merchants, and Commoners, each granted by what their wallet held, liquid. The Book you are reading was relaunched the same day.
+
+Then the Realm was made auditable. The **Crown Oracle** debuted at UEC 705 — the Realm's price-of-record set by a law of evidence, not a rule of order. The **Proof of Reserves** followed at UEC 710: the whole worth of the Realm resolved from the chain into provable buckets, every dollar traced to where it lives. At UEC 719, the **Great Reckoning**: all three engines were re-derived from the raw chain and shown to conserve exactly — endowment equals claimed plus vault, to the token — and the **Proof of Emission** was raised beside the Proof of Reserves.
+
+## The Wire and the Grand Unveil — UEC 730–731
+
+At UEC 730 the **Wire** was lit: the Realm's raw stream, every dig, lock, bid, and trade classified from the chain and cried live — born remembering, backfilled to the Creation, and carried to [Telegram](https://t.me/ogrealm).
+
+One Epoch later — UEC 731, July 5, 2026, the Realm's second birthday — the **Face** was unveiled to the world at [ogrealm.com](https://ogrealm.com): the Clock Tower, the Oracle, the Games, the Ledger, the Census, the Mirror, the Board, and the Saga — equal truth for human and Agent, read from Solana and refreshed every half hour. Anyone may now look into the [Mirror](https://ogrealm.com/mirror) and read their standing as the Realm sees it.
+
+## The Standing Now
+
+The engines have not missed a turn. The Mine has passed 790 Epochs of emission; the Reserve pays its 274M $OGC every Epoch; the Lottery has settled thirteen pools since its rebirth and opened its fourteenth. The census has grown from thirty-seven to the mid-forties, and the Alchemy draws nearer with every reset. The living figures are on the [Oracle](https://ogrealm.com/oracle); the raw moves are on the [Wire](https://ogrealm.com/saga/wire).
+
 {% hint style="success" %}
 The Realm of OGs is still young. You are early.
 {% endhint %}
 
 ---
 
-*✓ Verified by the Mad OG · UEC 702 (2026-06-06)*
+*✓ Verified by the Mad OG · UEC 702 (2026-06-06) · Era II chapters added · UEC 816 (2026-09-28)*

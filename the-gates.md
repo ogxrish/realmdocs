@@ -72,7 +72,7 @@ The Realm's power is great: We have seen Kings become Fools, and Fools become Ki
 
 Now move along. The game is already underway.
 
-> **The Realm beyond these gates:** [Website](https://ogrealm.com) · [Discord](https://discord.gg/ogrealm) · [X](https://x.com/ogrealm_) · the Games ([Mine](https://mine.ogrealm.xyz) · [Reserve](https://reserve.ogrealm.xyz) · [Lottery](https://lottery.ogrealm.xyz)) — full directory: [The Realm Beyond](canon/the-realm-beyond.md).
+> **The Realm beyond these gates:** [The Face](https://ogrealm.com) · [The Mirror](https://ogrealm.com/mirror) · [Discord](https://discord.gg/ogrealm) · [Telegram — the Wire](https://t.me/ogrealm) · [X](https://x.com/ogrealm_) · the Games ([Mine](https://mine.ogrealm.xyz) · [Reserve](https://reserve.ogrealm.xyz) · [Lottery](https://lottery.ogrealm.xyz)) — full directory: [The Realm Beyond](canon/the-realm-beyond.md).
 
 ---
 
