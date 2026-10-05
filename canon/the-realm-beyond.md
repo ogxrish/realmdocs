@@ -41,7 +41,7 @@ The Face was unveiled at **UEC 731** (July 5, 2026). It is not a brochure: every
 | Hall | Link | Purpose |
 | --- | --- | --- |
 | 💬 **Discord** | [discord.gg/ogrealm](https://discord.gg/ogrealm) | The Arena — class roles, the Scribe's Daily Epoch, the Jester, the community. |
-| ⚡ **Telegram** | [t.me/ogrealm](https://t.me/ogrealm) | The Wire — every dig, lock, bid, and trade, cried live from the chain. |
+| 📣 **Telegram** | [t.me/ogrealm](https://t.me/ogrealm) | The Herald — the Realm's official channel: crossings, the Crown's hand, the Final Bid, the large moves, the daily ticket, the Beacon. Every pulse of the Wire rides in [the pocket](https://t.me/OGRealmJesterBot/pocket). |
 | 𝕏 **X** | [@ogrealm\_](https://x.com/ogrealm_) | The Realm's storyline, in public. |
 
 ## Extensions on the Horizon

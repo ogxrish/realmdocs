@@ -43,7 +43,7 @@ An OG born at UEC 26 was present at the very first emission. An OG who enters to
 ## 5 — Enter the Gathering Places
 
 * **Discord — the Arena, the gathering place behind the portal:** [discord.gg/ogrealm](https://discord.gg/ogrealm)
-* **Telegram — the Wire, every move cried live from the chain:** [t.me/ogrealm](https://t.me/ogrealm)
+* **Telegram — the Herald, the Realm's official channel:** [t.me/ogrealm](https://t.me/ogrealm) — crossings, the Crown's hand, the Final Bid, the large moves, the daily ticket, the Beacon. Every pulse of the Wire rides in [the pocket](https://t.me/OGRealmJesterBot/pocket).
 * **X — the Realm's storyline:** [@ogrealm\_](https://x.com/ogrealm_)
 * **The Face — the living Realm, read from Solana:** [ogrealm.com](https://ogrealm.com)
 
