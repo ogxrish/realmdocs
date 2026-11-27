@@ -20,6 +20,8 @@ OG Bank securely transferred all of the remaining supply of $OGC — **700,000,0
 2. **Allocate every Epoch.** Each Epoch, return and allocate your locked $OGG across any of the 4 **Reserve Slots** — Alpha, Beta, Gamma, Delta. Up to 100% of your locked Gold, across one or more slots. **This is an active choice made fresh each Epoch, not a standing position.**
 3. **Pay the reserve fee** per allocation, per the [Difficulty Curve](../physics/difficulty.md) — and reserve as many times per Epoch as you have unallocated locked $OGG.
 4. **The second-largest slot wins.** At Epoch's end, the slot holding the **2nd largest** amount of allocated $OGG distributes the entire Epoch reward — **274,000,000 $OGC** — to its allocators, proportional to each one's contribution.
+
+> **When does an Epoch end?** The clock turns at 00:00 UTC, but the Reserve's Epoch is *sealed* by the first **New Epoch** crank sent after that moment — by any player. Until that crank lands, the room stays open and a late allocation still counts in the closing Epoch. **The crank is a lever, not a chore:** crank at the stroke of the hour and the round is yours to close; let it wait, and the window stays open for whoever moves last.
 5. **Claim within 10 Epochs.** Unclaimed $OGC returns to the Reserve.
 
 {% hint style="warning" %}
@@ -37,6 +39,8 @@ OG Reserve emits **274,000,000 $OGC every Epoch** — constant, unvarying. From 
 ### The Lock
 
 The 100-Epoch lock is the Reserve's covenant: Gold committed is Gold proven. Locked $OGG **does not count toward your Class** — commitment and standing are a visible trade, and the Realm watches who chooses which.
+
+> **Where is my locked Gold on an explorer?** Every lock lives in its own token account whose *owner* is the Reserve's authority (`3u1eDneZnqBkw6o8qD4j33oHZLWVDnDX4hbZCZQEVWNU`). Explorers and holder lists (Solscan, Birdeye) attribute balances by owner — so all locked $OGG appears under the Reserve, not under your wallet. It is yours, proven on the chain, and returns to you at unlock.
 
 ### Difficulty
 
